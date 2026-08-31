@@ -1,0 +1,512 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022100001,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:37 PM EST),period,start,0,0,1
+0022100001,4,PT12M00.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Jump Ball Lopez vs. Claxton: Tip to G. Antetokounmpo,Jump Ball,,1,0,2
+0022100001,7,PT11M42.00S,1,1610612749,MIL,1628960,Allen,G. Allen,-164,210,27,Missed,1,,,0,h,MISS Allen 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+0022100001,8,PT11M39.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022100001,9,PT11M27.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,5
+0022100001,11,PT11M27.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,6
+0022100001,12,PT11M27.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,0,7
+0022100001,13,PT11M27.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,8
+0022100001,14,PT11M25.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022100001,15,PT11M13.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,263,26,Missed,1,,,0,h,MISS G. Antetokounmpo 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,10
+0022100001,16,PT11M10.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,11
+0022100001,18,PT11M01.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,5,147,15,Missed,1,,,0,h,MISS G. Antetokounmpo 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,12
+0022100001,19,PT10M59.00S,1,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022100001,20,PT10M47.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,1,4,0,Made,1,0,2,2,v,Claxton Alley Oop Dunk (2 PTS) (Harden 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,14
+0022100001,22,PT10M31.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,15,104,11,Missed,1,,,0,h,MISS G. Antetokounmpo 11' Hook Shot,Missed Shot,Hook Shot,1,2,15
+0022100001,23,PT10M29.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,16
+0022100001,24,PT10M28.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,6,8,1,Made,1,2,2,4,h,G. Antetokounmpo 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,17
+0022100001,25,PT10M16.00S,1,1610612751,BKN,201935,Harden,J. Harden,-213,172,27,Missed,1,,,0,v,MISS Harden 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,18
+0022100001,26,PT10M12.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,19
+0022100001,27,PT10M03.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,23,282,28,Made,1,5,2,7,h,Lopez 28' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,1,3,20
+0022100001,29,PT09M42.00S,1,1610612751,BKN,201142,Durant,K. Durant,-21,125,13,Made,1,5,4,9,v,Durant 13' Turnaround Jump Shot (2 PTS) (Harden 2 AST),Made Shot,Turnaround Jump Shot,1,2,21
+0022100001,31,PT09M32.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-6,36,4,Missed,1,,,0,h,MISS G. Antetokounmpo 4' Layup,Missed Shot,Layup Shot,1,2,22
+0022100001,32,PT09M30.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,23
+0022100001,33,PT09M30.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-2,20,2,Missed,1,,,0,h,MISS G. Antetokounmpo 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,24
+0022100001,33,PT09M30.00S,1,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden BLOCK (1 BLK),,,1,2,25
+0022100001,35,PT09M29.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,26
+0022100001,36,PT09M28.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,6,51,5,Missed,1,,,0,h,MISS Lopez 5' Hook Shot,Missed Shot,Hook Shot,1,2,27
+0022100001,37,PT09M27.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,28
+0022100001,38,PT09M26.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,4,15,2,Missed,1,,,0,h,MISS G. Antetokounmpo 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,29
+0022100001,39,PT09M25.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,30
+0022100001,40,PT09M24.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,21,2,Made,1,7,4,11,h,G. Antetokounmpo 2' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,31
+0022100001,41,PT08M58.00S,1,1610612751,BKN,203925,Harris,J. Harris,-64,134,15,Missed,1,,,0,v,MISS Harris 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,32
+0022100001,42,PT08M55.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0022100001,43,PT08M52.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-54,261,27,Made,1,10,4,14,h,Middleton 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,34
+0022100001,44,PT08M29.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,35
+0022100001,46,PT08M29.00S,1,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,10,5,15,v,Griffin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,36
+0022100001,47,PT08M29.00S,1,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,10,6,16,v,Griffin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,37
+0022100001,48,PT08M14.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-17,263,26,Missed,1,,,0,h,MISS Middleton 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,38
+0022100001,49,PT08M12.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+0022100001,50,PT08M05.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez P.FOUL (P2.T3) (N.Sago),Foul,Personal,1,0,40
+0022100001,52,PT08M05.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Connaughton FOR Lopez,Substitution,,0,0,41
+0022100001,54,PT07M49.00S,1,1610612751,BKN,201142,Durant,K. Durant,21,15,3,Made,1,10,8,18,v,Durant 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,42
+0022100001,55,PT07M33.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,-124,240,27,Made,1,13,8,21,h,Holiday 27' 3PT Jump Shot (3 PTS) (Middleton 1 AST),Made Shot,Jump Shot,1,3,43
+0022100001,57,PT07M16.00S,1,1610612751,BKN,201935,Harden,J. Harden,176,193,26,Missed,1,,,0,v,MISS Harden 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,44
+0022100001,58,PT07M14.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,h,Connaughton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+0022100001,59,PT07M14.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,9,6,1,Made,1,15,8,23,h,G. Antetokounmpo 1' Running Dunk (6 PTS) (Middleton 2 AST),Made Shot,Running Dunk Shot,1,2,46
+0022100001,61,PT07M14.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,47
+0022100001,62,PT07M14.00S,1,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,48
+0022100001,64,PT07M14.00S,1,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,,,0,v,SUB: Mills FOR Harris,Substitution,,0,0,49
+0022100001,66,PT07M14.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,MISS G. Antetokounmpo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,50
+0022100001,67,PT07M11.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,51
+0022100001,68,PT07M00.00S,1,1610612751,BKN,201142,Durant,K. Durant,-2,109,11,Missed,1,,,0,v,MISS Durant 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,52
+0022100001,69,PT06M57.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,53
+0022100001,70,PT06M51.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-116,224,25,Made,1,18,8,26,h,G. Antetokounmpo 25' 3PT Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,54
+0022100001,71,PT06M30.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,17,63,7,Missed,1,,,0,v,MISS Claxton 7' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,55
+0022100001,71,PT06M30.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo BLOCK (1 BLK),,,1,2,56
+0022100001,73,PT06M26.00S,1,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+0022100001,74,PT06M19.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,221,142,26,Made,1,21,8,29,h,Connaughton 26' 3PT Jump Shot (3 PTS) (Middleton 3 AST),Made Shot,Jump Shot,1,3,58
+0022100001,76,PT06M03.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,7,15,2,Made,1,21,10,31,v,Claxton 2' Alley Oop Layup (4 PTS) (Durant 1 AST),Made Shot,Alley Oop Layup shot,1,2,59
+0022100001,78,PT05M52.00S,1,1610612749,MIL,1628960,Allen,G. Allen,-169,194,26,Missed,1,,,0,h,MISS Allen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+0022100001,79,PT05M49.00S,1,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,61
+0022100001,80,PT05M36.00S,1,1610612751,BKN,201935,Harden,J. Harden,-7,16,2,Made,1,21,12,33,v,Harden 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,62
+0022100001,81,PT05M27.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,47,269,27,Missed,1,,,0,h,MISS Connaughton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+0022100001,82,PT05M23.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,64
+0022100001,83,PT05M22.00S,1,1610612751,BKN,201142,Durant,K. Durant,-218,143,26,Missed,1,,,0,v,MISS Durant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,65
+0022100001,84,PT05M20.00S,1,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,66
+0022100001,85,PT05M20.00S,1,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,Missed,1,,,0,v,MISS Griffin Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,67
+0022100001,86,PT05M17.00S,1,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,68
+0022100001,87,PT05M13.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,69
+0022100001,89,PT05M13.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,22,12,34,h,G. Antetokounmpo Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,70
+0022100001,99,PT05M13.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,23,12,35,h,G. Antetokounmpo Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,71
+0022100001,90,PT05M13.00S,1,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: Hill FOR Allen,Substitution,,0,0,72
+0022100001,91,PT05M13.00S,1,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,SUB: Millsap FOR Griffin,Substitution,,0,0,73
+0022100001,92,PT05M13.00S,1,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,SUB: Aldridge FOR Harden,Substitution,,0,0,74
+0022100001,93,PT05M13.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Carter FOR Claxton,Substitution,,0,0,75
+0022100001,100,PT05M04.00S,1,1610612751,BKN,201142,Durant,K. Durant,148,222,27,Missed,1,,,0,v,MISS Durant 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,76
+0022100001,101,PT05M02.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,77
+0022100001,102,PT04M53.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-40,168,17,Made,1,25,12,37,h,G. Antetokounmpo 17' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,78
+0022100001,103,PT04M34.00S,1,1610612751,BKN,200746,Aldridge,L. Aldridge,67,20,7,Missed,1,,,0,v,MISS Aldridge 7' Hook Shot,Missed Shot,Hook Shot,1,2,79
+0022100001,104,PT04M32.00S,1,1610612751,BKN,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,80
+0022100001,105,PT04M30.00S,1,1610612751,BKN,1628975,Carter,J. Carter,-228,7,0,Missed,1,,,0,v,MISS Carter 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0022100001,106,PT04M27.00S,1,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+0022100001,107,PT04M24.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,17,46,5,Missed,1,,,0,h,MISS G. Antetokounmpo 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,83
+0022100001,107,PT04M24.00S,1,1610612751,BKN,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap BLOCK (1 BLK),,,1,2,84
+0022100001,109,PT04M24.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,0,85
+0022100001,110,PT04M24.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: T. Antetokounmpo FOR G. Antetokounmpo,Substitution,,0,0,86
+0022100001,112,PT04M09.00S,1,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,Aldridge OFF.Foul (P1) (J.Tiven),Foul,Offensive,1,0,87
+0022100001,114,PT04M09.00S,1,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,Aldridge Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,88
+0022100001,115,PT04M09.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,SUB: Lopez FOR Middleton,Substitution,,0,0,89
+0022100001,117,PT03M55.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,-104,235,26,Made,1,28,12,40,h,Connaughton 26' 3PT Jump Shot (6 PTS) (Holiday 1 AST),Made Shot,Jump Shot,1,3,90
+0022100001,119,PT03M37.00S,1,1610612751,BKN,201142,Durant,K. Durant,-69,15,7,Missed,1,,,0,v,MISS Durant 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,91
+0022100001,120,PT03M34.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,92
+0022100001,121,PT03M22.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,88,253,27,Made,1,31,12,43,h,Holiday 27' 3PT Pullup Jump Shot (6 PTS) (Hill 1 AST),Made Shot,Pullup Jump shot,1,3,93
+0022100001,123,PT03M15.00S,1,1610612751,BKN,201988,Mills,P. Mills,-216,155,27,Made,1,31,15,46,v,Mills 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,94
+0022100001,124,PT03M04.00S,1,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,95
+0022100001,125,PT03M04.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Nwora FOR Holiday,Substitution,,0,0,96
+0022100001,126,PT03M04.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,SUB: Harden FOR Durant,Substitution,,0,0,97
+0022100001,129,PT02M53.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,-4,22,2,Made,1,33,15,48,h,Connaughton 2' Cutting Dunk Shot (8 PTS) (Hill 2 AST),Made Shot,Cutting Dunk Shot,1,2,98
+0022100001,131,PT02M40.00S,1,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,0,99
+0022100001,133,PT02M40.00S,1,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,33,16,49,v,Harden Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,100
+0022100001,136,PT02M40.00S,1,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,33,17,50,v,Harden Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,101
+0022100001,134,PT02M40.00S,1,1610612751,BKN,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,SUB: Harris FOR Carter,Substitution,,0,0,102
+0022100001,137,PT02M27.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,130,13,Missed,1,,,0,h,MISS Lopez 13' Jump Shot,Missed Shot,Jump Shot,1,2,103
+0022100001,137,PT02M27.00S,1,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,Aldridge BLOCK (1 BLK),,,1,2,104
+0022100001,139,PT02M25.00S,1,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022100001,140,PT02M18.00S,1,1610612751,BKN,201988,Mills,P. Mills,-124,238,27,Made,1,33,20,53,v,Mills 27' 3PT Running Pull-Up Jump Shot (6 PTS) (Harris 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,106
+0022100001,142,PT02M00.00S,1,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,-5,34,3,Made,1,35,20,55,h,T. Antetokounmpo 3' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,107
+0022100001,143,PT01M51.00S,1,1610612751,BKN,200746,Aldridge,L. Aldridge,-23,131,13,Missed,1,,,0,v,MISS Aldridge 13' Jump Shot,Missed Shot,Jump Shot,1,2,108
+0022100001,144,PT01M48.00S,1,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,,,0,h,T. Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022100001,145,PT01M38.00S,1,1610612749,MIL,1629670,Nwora,J. Nwora,142,73,16,Missed,1,,,0,h,MISS Nwora 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,110
+0022100001,146,PT01M35.00S,1,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,Aldridge REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+0022100001,148,PT01M14.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0,112
+0022100001,149,PT01M01.00S,1,1610612749,MIL,201588,Hill,G. Hill,61,283,29,Missed,1,,,0,h,MISS Hill 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+0022100001,150,PT00M56.80S,1,1610612751,BKN,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,114
+0022100001,151,PT00M52.00S,1,1610612751,BKN,201988,Mills,P. Mills,152,216,26,Made,1,35,23,58,v,Mills 26' 3PT Running Jump Shot (9 PTS) (Harden 3 AST),Made Shot,Running Jump Shot,1,3,115
+0022100001,153,PT00M38.60S,1,1610612749,MIL,201572,Lopez,B. Lopez,7,168,17,Missed,1,,,0,h,MISS Lopez 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,116
+0022100001,153,PT00M38.60S,1,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,,,0,v,Mills BLOCK (1 BLK),,,1,2,117
+0022100001,155,PT00M34.50S,1,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,118
+0022100001,156,PT00M32.40S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,243,72,25,Missed,1,,,0,h,MISS Connaughton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022100001,157,PT00M30.70S,1,1610612751,BKN,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,120
+0022100001,158,PT00M30.70S,1,1610612751,BKN,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,121
+0022100001,158,PT00M30.70S,1,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,122
+0022100001,160,PT00M30.70S,1,1610612749,MIL,1629670,Nwora,J. Nwora,2,14,1,Made,1,37,23,60,h,Nwora 1' Layup (2 PTS),Made Shot,Layup Shot,1,2,123
+0022100001,161,PT00M10.60S,1,1610612751,BKN,201935,Harden,J. Harden,9,28,3,Made,1,37,25,62,v,Harden 3' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,124
+0022100001,162,PT00M00.90S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,-240,35,24,Missed,1,,,0,h,MISS Connaughton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022100001,163,PT00M00.90S,1,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022100001,164,PT00M00.00S,1,0,,0,,,0,0,0,,0,37,25,62,,End of 1st Period (8:04 PM EST),period,end,1,0,127
+0022100001,177,PT12M00.00S,2,0,,0,,,0,0,0,,0,37,25,62,,Start of 2nd Period (8:08 PM EST),period,start,0,0,128
+0022100001,178,PT11M45.00S,2,1610612751,BKN,201935,Harden,J. Harden,2,268,27,Made,1,37,28,65,v,Harden 27' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,129
+0022100001,179,PT11M28.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,141,-4,14,Made,1,39,28,67,h,Holiday 14' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,130
+0022100001,180,PT11M20.00S,2,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,131
+0022100001,181,PT11M04.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-104,9,10,Missed,1,,,0,h,MISS G. Antetokounmpo 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,132
+0022100001,182,PT11M01.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,133
+0022100001,183,PT10M55.00S,2,1610612751,BKN,201988,Mills,P. Mills,-212,154,26,Made,1,39,31,70,v,Mills 26' 3PT Running Jump Shot (12 PTS) (Johnson 1 AST),Made Shot,Running Jump Shot,1,3,134
+0022100001,185,PT10M36.00S,2,1610612749,MIL,1629670,Nwora,J. Nwora,-93,245,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,135
+0022100001,186,PT10M35.00S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0,136
+0022100001,187,PT10M35.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,,,0,v,Harris L.B.FOUL (P1.T1) (N.Sago),Foul,Loose Ball,1,0,137
+0022100001,189,PT10M35.00S,2,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,,,0,v,SUB: Carter FOR Mills,Substitution,,0,0,138
+0022100001,191,PT10M23.00S,2,1610612749,MIL,1628960,Allen,G. Allen,-126,220,25,Missed,1,,,0,h,MISS Allen 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022100001,192,PT10M20.00S,2,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+0022100001,193,PT10M20.00S,2,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora P.FOUL (P2.T1) (J.Tiven),Foul,Personal,1,0,141
+0022100001,195,PT10M07.00S,2,1610612751,BKN,201935,Harden,J. Harden,33,257,26,Made,1,39,34,73,v,Harden 26' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,3,142
+0022100001,196,PT09M55.00S,2,1610612749,MIL,1629670,Nwora,J. Nwora,194,184,27,Made,1,42,34,76,h,Nwora 27' 3PT Jump Shot (5 PTS) (Mamukelashvili 1 AST),Made Shot,Jump Shot,1,3,143
+0022100001,198,PT09M41.00S,2,1610612751,BKN,203925,Harris,J. Harris,22,26,3,Missed,1,,,0,v,MISS Harris 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,144
+0022100001,199,PT09M37.00S,2,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,145
+0022100001,206,PT09M29.00S,2,1610612749,MIL,1630572,Mamukelashvili,S. Mamukelashvili,5,8,1,Missed,1,,,0,h,MISS Mamukelashvili 1' Layup,Missed Shot,Layup Shot,1,2,146
+0022100001,206,PT09M29.00S,2,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden BLOCK (2 BLK),,,1,2,147
+0022100001,208,PT09M29.00S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0,148
+0022100001,203,PT09M25.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton AWAY.FROM.PLAY.FOUL (P2.T2) (J.Goble),Foul,Away From Play,0,0,149
+0022100001,205,PT09M25.00S,2,0,,203,McMillan,N. McMillan,0,0,0,,0,42,34,76,,Instant Replay2nd Period (8:12 PM EST),Instant Replay,Support Ruling,0,0,150
+0022100001,209,PT09M25.00S,2,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,43,34,77,h,Allen Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,1,0,151
+0022100001,210,PT09M20.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-17,27,3,Made,1,45,34,79,h,G. Antetokounmpo 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,152
+0022100001,211,PT09M06.00S,2,1610612751,BKN,203925,Harris,J. Harris,203,147,25,Missed,1,,,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022100001,212,PT09M03.00S,2,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,154
+0022100001,213,PT08M52.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,-2,15,2,Made,1,47,34,81,h,Holiday 2' Driving Layup (10 PTS) (Nwora 1 AST),Made Shot,Driving Layup Shot,1,2,155
+0022100001,215,PT08M38.00S,2,1610612751,BKN,201935,Harden,J. Harden,-47,264,27,Made,1,47,37,84,v,Harden 27' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,156
+0022100001,216,PT08M25.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,74,255,27,Missed,1,,,0,h,MISS Holiday 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,157
+0022100001,217,PT08M22.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,158
+0022100001,218,PT08M11.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,,,0,v,Harris Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,159
+0022100001,218,PT08M11.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,160
+0022100001,220,PT08M04.00S,2,1610612749,MIL,1628960,Allen,G. Allen,192,188,27,Made,1,50,37,87,h,Allen 27' 3PT Jump Shot (4 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,1,3,161
+0022100001,222,PT07M40.00S,2,1610612751,BKN,201935,Harden,J. Harden,-110,268,29,Missed,1,,,0,v,MISS Harden 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,162
+0022100001,223,PT07M38.00S,2,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,163
+0022100001,224,PT07M31.00S,2,1610612749,MIL,1629670,Nwora,J. Nwora,7,263,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,164
+0022100001,225,PT07M29.00S,2,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,165
+0022100001,226,PT07M26.00S,2,1610612751,BKN,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,166
+0022100001,227,PT07M26.00S,2,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Lopez FOR Nwora,Substitution,,0,0,167
+0022100001,228,PT07M26.00S,2,1610612749,MIL,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,SUB: Middleton FOR Mamukelashvili,Substitution,,0,0,168
+0022100001,229,PT07M26.00S,2,1610612751,BKN,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Durant FOR Johnson,Substitution,,0,0,169
+0022100001,233,PT07M14.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,59,166,18,Missed,1,,,0,h,MISS G. Antetokounmpo 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,170
+0022100001,234,PT07M12.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,171
+0022100001,235,PT07M10.00S,2,1610612749,MIL,1628960,Allen,G. Allen,-245,62,25,Missed,1,,,0,h,MISS Allen 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,172
+0022100001,236,PT07M07.00S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0,173
+0022100001,237,PT07M07.00S,2,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden L.B.FOUL (P2.T3) (J.Tiven),Foul,Loose Ball,1,0,174
+0022100001,239,PT07M07.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Aldridge FOR Claxton,Substitution,,0,0,175
+0022100001,241,PT06M55.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,235,37,24,Made,1,53,37,90,h,Lopez 24' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,1,3,176
+0022100001,243,PT06M26.00S,2,1610612751,BKN,201935,Harden,J. Harden,4,70,7,Missed,1,,,0,v,MISS Harden 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,177
+0022100001,244,PT06M23.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,178
+0022100001,245,PT06M18.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,140,225,27,Missed,1,,,0,h,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+0022100001,246,PT06M14.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,180
+0022100001,247,PT06M04.00S,2,1610612751,BKN,201142,Durant,K. Durant,16,273,27,Missed,1,,,0,v,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+0022100001,248,PT06M01.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,182
+0022100001,249,PT05M50.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-108,58,12,Made,1,55,37,92,h,Middleton 12' Turnaround Fadeaway (5 PTS),Made Shot,Turnaround Fadeaway shot,1,2,183
+0022100001,250,PT05M40.00S,2,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,184
+0022100001,251,PT05M40.00S,2,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: Connaughton FOR Allen,Substitution,,0,0,185
+0022100001,252,PT05M40.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Hill FOR G. Antetokounmpo,Substitution,,0,0,186
+0022100001,253,PT05M40.00S,2,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,SUB: Mills FOR Harden,Substitution,,0,0,187
+0022100001,257,PT05M26.00S,2,1610612751,BKN,201988,Mills,P. Mills,-200,179,27,Made,1,55,40,95,v,Mills 27' 3PT Jump Shot (15 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,3,188
+0022100001,259,PT05M12.00S,2,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,Aldridge FLAGRANT.FOUL.TYPE1 (P2.T4) (N.Sago),Foul,Flagrant Type 1,1,0,189
+0022100001,261,PT05M12.00S,2,0,,259,,,0,0,0,,0,55,40,95,,Instant Replay2nd Period (8:23 PM EST),Instant Replay,Support Ruling,0,0,190
+0022100001,262,PT05M12.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,56,40,96,h,Middleton Free Throw Flagrant 1 of 3 (6 PTS),Free Throw,Free Throw Flagrant 1 of 3,1,0,191
+0022100001,263,PT05M12.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,57,40,97,h,Middleton Free Throw Flagrant 2 of 3 (7 PTS),Free Throw,Free Throw Flagrant 2 of 3,1,0,192
+0022100001,264,PT05M12.00S,2,1610612751,BKN,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,SUB: Griffin FOR Carter,Substitution,,0,0,193
+0022100001,266,PT05M12.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,MISS Middleton Free Throw Flagrant 3 of 3,Free Throw,Free Throw Flagrant 3 of 3,1,0,194
+0022100001,267,PT05M12.00S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0,195
+0022100001,268,PT04M47.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,-77,143,16,Made,1,59,40,99,h,Holiday 16' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,2,196
+0022100001,269,PT04M33.00S,2,1610612751,BKN,203925,Harris,J. Harris,-216,159,27,Made,1,59,43,102,v,Harris 27' 3PT Jump Shot (3 PTS) (Durant 2 AST),Made Shot,Jump Shot,1,3,197
+0022100001,271,PT04M29.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,198
+0022100001,272,PT04M18.00S,2,1610612751,BKN,201142,Durant,K. Durant,-2,20,2,Missed,1,,,0,v,MISS Durant 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,199
+0022100001,272,PT04M18.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (1 BLK),,,1,2,200
+0022100001,274,PT04M14.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,201
+0022100001,275,PT04M10.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,26,158,16,Made,1,61,43,104,h,Middleton 16' Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,202
+0022100001,276,PT03M50.00S,2,1610612751,BKN,201142,Durant,K. Durant,-70,17,7,Made,1,61,45,106,v,Durant 7' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,203
+0022100001,277,PT03M30.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,233,15,0,Missed,1,,,0,h,MISS Lopez 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+0022100001,278,PT03M27.00S,2,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,Aldridge REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,205
+0022100001,279,PT03M22.00S,2,1610612751,BKN,201142,Durant,K. Durant,89,248,26,Made,1,61,48,109,v,Durant 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,206
+0022100001,280,PT03M13.00S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,207
+0022100001,281,PT03M13.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Nwora FOR Holiday,Substitution,,0,0,208
+0022100001,283,PT03M00.00S,2,1610612749,MIL,201588,Hill,G. Hill,42,267,27,Missed,1,,,0,h,MISS Hill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,209
+0022100001,284,PT02M57.00S,2,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,Aldridge REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,210
+0022100001,285,PT02M45.00S,2,1610612751,BKN,201142,Durant,K. Durant,-60,32,7,Made,1,61,50,111,v,Durant 7' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,2,211
+0022100001,286,PT02M32.00S,2,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill Offensive Charge Foul (P1) (J.Tiven),Foul,Offensive Charge,1,0,212
+0022100001,288,PT02M32.00S,2,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,213
+0022100001,289,PT02M32.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: G. Antetokounmpo FOR Lopez,Substitution,,0,0,214
+0022100001,291,PT02M17.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,215
+0022100001,291,PT02M17.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton STEAL (1 STL),,,1,0,216
+0022100001,293,PT02M09.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,6,66,7,Missed,1,,,0,h,MISS G. Antetokounmpo 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,217
+0022100001,294,PT02M07.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,218
+0022100001,295,PT02M03.00S,2,1610612751,BKN,203925,Harris,J. Harris,-240,6,24,Made,1,61,53,114,v,Harris 24' 3PT Running Jump Shot (6 PTS) (Mills 1 AST),Made Shot,Running Jump Shot,1,3,219
+0022100001,297,PT01M45.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-58,267,27,Missed,1,,,0,h,MISS Middleton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+0022100001,298,PT01M43.00S,2,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,,,0,v,Mills REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,221
+0022100001,300,PT01M39.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,,,0,v,SUB: Harden FOR Harris,Substitution,,0,0,222
+0022100001,301,PT01M39.00S,2,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,SUB: Claxton FOR Aldridge,Substitution,,0,0,223
+0022100001,304,PT01M31.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,-1,12,1,Made,1,61,55,116,v,Claxton 1' Cutting Dunk Shot (6 PTS) (Mills 2 AST),Made Shot,Cutting Dunk Shot,1,2,224
+0022100001,306,PT01M22.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-9,11,1,Made,1,63,55,118,h,G. Antetokounmpo 1' Cutting Layup Shot (17 PTS) (Connaughton 1 AST),Made Shot,Cutting Layup Shot,1,2,225
+0022100001,308,PT01M22.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,0,226
+0022100001,310,PT01M22.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,64,55,119,h,G. Antetokounmpo Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,227
+0022100001,311,PT01M09.00S,2,1610612751,BKN,201933,Griffin,B. Griffin,-21,20,3,Made,1,64,57,121,v,Griffin 3' Turnaround Fadeaway Bank Jump Shot (4 PTS) (Durant 3 AST),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,228
+0022100001,313,PT00M58.70S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,229
+0022100001,313,PT00M58.70S,2,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,Griffin STEAL (1 STL),,,1,0,230
+0022100001,315,PT00M55.50S,2,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,Griffin Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,231
+0022100001,315,PT00M55.50S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo STEAL (1 STL),,,1,0,232
+0022100001,317,PT00M50.70S,2,1610612749,MIL,1629670,Nwora,J. Nwora,1,21,2,Missed,1,,,0,h,MISS Nwora 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,233
+0022100001,318,PT00M48.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,234
+0022100001,319,PT00M47.90S,2,1610612751,BKN,201933,Griffin,B. Griffin,6,22,2,Made,1,64,59,123,v,Griffin 2' Running Alley Oop Layup Shot (6 PTS) (Durant 4 AST),Made Shot,Running Alley Oop Layup Shot,1,2,235
+0022100001,321,PT00M31.90S,2,1610612749,MIL,203114,Middleton,K. Middleton,-47,169,18,Made,1,66,59,125,h,Middleton 18' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,2,236
+0022100001,322,PT00M12.00S,2,1610612751,BKN,201142,Durant,K. Durant,-43,76,9,Missed,1,,,0,v,MISS Durant 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,237
+0022100001,323,PT00M09.40S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,238
+0022100001,324,PT00M00.00S,2,1610612749,MIL,1629670,Nwora,J. Nwora,240,27,24,Missed,1,,,0,h,MISS Nwora 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,239
+0022100001,324,PT00M00.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant BLOCK (1 BLK),,,1,3,240
+0022100001,326,PT00M00.00S,2,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,241
+0022100001,327,PT00M00.00S,2,0,,0,,,0,0,0,,0,66,59,125,,End of 2nd Period (8:37 PM EST),period,end,1,0,242
+0022100001,334,PT12M00.00S,3,0,,0,,,0,0,0,,0,66,59,125,,Start of 3rd Period (8:53 PM EST),period,start,0,0,243
+0022100001,335,PT11M45.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,29,89,9,Missed,1,,,0,v,MISS Claxton 9' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,244
+0022100001,336,PT11M42.00S,3,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,245
+0022100001,337,PT11M34.00S,3,1610612749,MIL,1628960,Allen,G. Allen,-232,-1,0,Made,1,69,59,128,h,Allen 3PT Jump Shot (7 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,1,3,246
+0022100001,339,PT11M22.00S,3,1610612751,BKN,201142,Durant,K. Durant,-124,96,16,Made,1,69,61,130,v,Durant 16' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,247
+0022100001,340,PT11M05.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,67,256,26,Missed,1,,,0,h,MISS G. Antetokounmpo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+0022100001,341,PT11M03.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,249
+0022100001,342,PT10M56.00S,3,1610612751,BKN,203925,Harris,J. Harris,-21,80,8,Missed,1,,,0,v,MISS Harris 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,250
+0022100001,343,PT10M54.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0,251
+0022100001,345,PT10M41.00S,3,1610612749,MIL,1628960,Allen,G. Allen,-230,126,26,Missed,1,,,0,h,MISS Allen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+0022100001,346,PT10M38.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,253
+0022100001,347,PT10M36.00S,3,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill S.FOUL (P2.T1) (J.Goble),Foul,Shooting,1,0,254
+0022100001,349,PT10M36.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,MISS Durant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,255
+0022100001,350,PT10M36.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,0,256
+0022100001,351,PT10M36.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,69,62,131,v,Durant Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,257
+0022100001,352,PT10M28.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton P.FOUL (P3.T1) (J.Goble),Foul,Personal,1,0,258
+0022100001,354,PT10M14.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,4,13,1,Made,1,71,62,133,h,Lopez 1' Cutting Dunk Shot (8 PTS) (Allen 1 AST),Made Shot,Cutting Dunk Shot,1,2,259
+0022100001,356,PT10M03.00S,3,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,260
+0022100001,356,PT10M03.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez STEAL (1 STL),,,1,0,261
+0022100001,358,PT10M00.00S,3,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,Griffin S.FOUL (P1.T2) (N.Sago),Foul,Shooting,1,0,262
+0022100001,360,PT10M00.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,72,62,134,h,G. Antetokounmpo Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,263
+0022100001,361,PT10M00.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,73,62,135,h,G. Antetokounmpo Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,264
+0022100001,362,PT09M52.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton P.FOUL (P1.T2) (J.Tiven),Foul,Personal,1,0,265
+0022100001,364,PT09M48.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,2,13,1,Made,1,73,64,137,v,Claxton 1' Alley Oop Layup (8 PTS) (Harden 4 AST),Made Shot,Alley Oop Layup shot,1,2,266
+0022100001,366,PT09M48.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,0,267
+0022100001,368,PT09M48.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,MISS Claxton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,268
+0022100001,369,PT09M45.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,269
+0022100001,370,PT09M28.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,70,122,14,Missed,1,,,0,h,MISS Lopez 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,270
+0022100001,371,PT09M26.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,271
+0022100001,372,PT09M18.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,48,22,5,Missed,1,,,0,v,MISS Claxton 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,272
+0022100001,372,PT09M18.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (2 BLK),,,1,2,273
+0022100001,374,PT09M14.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,274
+0022100001,375,PT09M11.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,89,29,9,Made,1,75,64,139,h,Middleton 9' Driving Floating Jump Shot (13 PTS) (G. Antetokounmpo 5 AST),Made Shot,Driving Floating Jump Shot,1,2,275
+0022100001,377,PT08M52.00S,3,1610612751,BKN,201142,Durant,K. Durant,-83,124,15,Made,1,75,66,141,v,Durant 15' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,2,276
+0022100001,378,PT08M35.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,78,142,16,Made,1,77,66,143,h,Middleton 16' Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,2,277
+0022100001,379,PT08M24.00S,3,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,278
+0022100001,380,PT08M16.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-55,63,8,Missed,1,,,0,h,MISS Middleton 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,279
+0022100001,381,PT08M15.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,280
+0022100001,382,PT08M06.00S,3,1610612751,BKN,201933,Griffin,B. Griffin,17,13,2,Missed,1,,,0,v,MISS Griffin 2' Running Layup,Missed Shot,Running Layup Shot,1,2,281
+0022100001,383,PT08M03.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,282
+0022100001,384,PT08M02.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-12,10,2,Made,1,79,66,145,h,G. Antetokounmpo 2' Running Layup (22 PTS),Made Shot,Running Layup Shot,1,2,283
+0022100001,386,PT07M44.00S,3,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill S.FOUL (P3.T4) (N.Sago),Foul,Shooting,1,0,284
+0022100001,388,PT07M44.00S,3,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,79,67,146,v,Harden Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,285
+0022100001,395,PT07M44.00S,3,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,79,68,147,v,Harden Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,286
+0022100001,389,PT07M44.00S,3,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,SUB: Connaughton FOR Hill,Substitution,,0,0,287
+0022100001,390,PT07M44.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Aldridge FOR Claxton,Substitution,,0,0,288
+0022100001,394,PT07M34.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-143,115,18,Made,1,81,68,149,h,G. Antetokounmpo 18' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,289
+0022100001,396,PT07M08.00S,3,1610612751,BKN,201142,Durant,K. Durant,-1,211,21,Made,1,81,70,151,v,Durant 21' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,2,290
+0022100001,397,PT06M58.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,233,-3,0,Missed,1,,,0,h,MISS Connaughton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0022100001,398,PT06M55.00S,3,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,292
+0022100001,403,PT06M48.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,293
+0022100001,404,PT06M48.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Nwora FOR Lopez,Substitution,,0,0,294
+0022100001,405,PT06M48.00S,3,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,SUB: Mills FOR Harden,Substitution,,0,0,295
+0022100001,408,PT06M41.00S,3,1610612751,BKN,201142,Durant,K. Durant,1,274,27,Made,1,81,73,154,v,Durant 27' 3PT Pullup Jump Shot (21 PTS) (Aldridge 1 AST),Made Shot,Pullup Jump shot,1,3,296
+0022100001,409,PT06M24.00S,3,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,297
+0022100001,410,PT06M14.00S,3,1610612751,BKN,201142,Durant,K. Durant,88,94,13,Missed,1,,,0,v,MISS Durant 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,298
+0022100001,411,PT06M12.00S,3,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,299
+0022100001,412,PT06M03.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-26,44,5,Missed,1,,,0,h,MISS Middleton 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,300
+0022100001,413,PT06M00.00S,3,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,301
+0022100001,414,PT05M52.00S,3,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,,,0,v,Harris Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,302
+0022100001,414,PT05M52.00S,3,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen STEAL (1 STL),,,1,0,303
+0022100001,416,PT05M45.00S,3,1610612749,MIL,1629670,Nwora,J. Nwora,131,232,27,Made,1,84,73,157,h,Nwora 27' 3PT Running Jump Shot (8 PTS) (Allen 2 AST),Made Shot,Running Jump Shot,1,3,304
+0022100001,419,PT05M23.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,1,0,305
+0022100001,422,PT05M23.00S,3,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,MISS Aldridge Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,306
+0022100001,423,PT05M23.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,0,307
+0022100001,424,PT05M23.00S,3,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: Robinson FOR Allen,Substitution,,0,0,308
+0022100001,425,PT05M23.00S,3,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,SUB: Johnson FOR Griffin,Substitution,,0,0,309
+0022100001,426,PT05M23.00S,3,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,,,0,v,SUB: Carter FOR Harris,Substitution,,0,0,310
+0022100001,430,PT05M23.00S,3,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,MISS Aldridge Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,311
+0022100001,431,PT05M21.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,312
+0022100001,433,PT05M11.00S,3,1610612751,BKN,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.T3) (N.Sago),Foul,Shooting,1,0,313
+0022100001,435,PT05M11.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,MISS G. Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,314
+0022100001,436,PT05M11.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0,315
+0022100001,437,PT05M11.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,85,73,158,h,G. Antetokounmpo Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,316
+0022100001,438,PT04M58.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton S.FOUL (P3.PN) (N.Sago),Foul,Shooting,1,0,317
+0022100001,440,PT04M58.00S,3,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,MISS Aldridge Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,318
+0022100001,441,PT04M58.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,0,319
+0022100001,442,PT04M58.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: T. Antetokounmpo FOR G. Antetokounmpo,Substitution,,0,0,320
+0022100001,444,PT04M58.00S,3,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,85,74,159,v,Aldridge Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,321
+0022100001,445,PT04M47.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-103,167,20,Made,1,87,74,161,h,Middleton 20' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,2,322
+0022100001,446,PT04M47.00S,3,1610612751,BKN,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P2.T4) (J.Goble),Foul,Shooting,1,0,323
+0022100001,448,PT04M47.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,88,74,162,h,Middleton Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,324
+0022100001,449,PT04M32.00S,3,1610612751,BKN,201988,Mills,P. Mills,78,183,20,Missed,1,,,0,v,MISS Mills 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,325
+0022100001,450,PT04M31.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,0,326
+0022100001,452,PT04M30.00S,3,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P3.PN) (N.Sago),Foul,Shooting,1,0,327
+0022100001,454,PT04M30.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,MISS Durant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,328
+0022100001,455,PT04M30.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,0,329
+0022100001,456,PT04M30.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,88,75,163,v,Durant Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,330
+0022100001,457,PT04M12.00S,3,1610612749,MIL,1629620,Robinson,J. Robinson,123,231,26,Missed,1,,,0,h,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022100001,458,PT04M09.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,332
+0022100001,459,PT04M07.00S,3,1610612751,BKN,201142,Durant,K. Durant,168,227,28,Missed,1,,,0,v,MISS Durant 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,333
+0022100001,460,PT04M04.00S,3,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,,,0,h,T. Antetokounmpo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,334
+0022100001,461,PT03M41.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,130,34,13,Missed,1,,,0,h,MISS Middleton 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,335
+0022100001,462,PT03M38.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,336
+0022100001,463,PT03M35.00S,3,1610612751,BKN,201142,Durant,K. Durant,-5,20,2,Missed,1,,,0,v,MISS Durant 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,337
+0022100001,464,PT03M33.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,0,338
+0022100001,466,PT03M33.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,h,SUB: Hill FOR Connaughton,Substitution,,0,0,339
+0022100001,467,PT03M33.00S,3,1610612749,MIL,1629620,Robinson,J. Robinson,0,0,0,,0,,,0,h,SUB: Lopez FOR Robinson,Substitution,,0,0,340
+0022100001,470,PT03M23.00S,3,1610612751,BKN,201142,Durant,K. Durant,-64,115,13,Made,1,88,77,165,v,Durant 13' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,341
+0022100001,471,PT03M00.00S,3,1610612749,MIL,1629670,Nwora,J. Nwora,-181,115,21,Missed,1,,,0,h,MISS Nwora 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,342
+0022100001,472,PT02M57.00S,3,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,,,0,v,Mills REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,343
+0022100001,473,PT02M55.00S,3,1610612751,BKN,201988,Mills,P. Mills,-1,169,17,Missed,1,,,0,v,MISS Mills 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,344
+0022100001,474,PT02M53.00S,3,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,345
+0022100001,475,PT02M43.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant P.FOUL (P2.PN) (N.Sago),Foul,Personal,1,0,346
+0022100001,477,PT02M43.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,347
+0022100001,478,PT02M43.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,SUB: Connaughton FOR Middleton,Substitution,,0,0,348
+0022100001,479,PT02M43.00S,3,1610612751,BKN,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,SUB: Harden FOR Carter,Substitution,,0,0,349
+0022100001,480,PT02M43.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,SUB: Harris FOR Durant,Substitution,,0,0,350
+0022100001,481,PT02M43.00S,3,1610612751,BKN,200746,Aldridge,L. Aldridge,0,0,0,,0,,,0,v,SUB: Claxton FOR Aldridge,Substitution,,0,0,351
+0022100001,486,PT02M43.00S,3,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,89,77,166,h,T. Antetokounmpo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,352
+0022100001,487,PT02M43.00S,3,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,90,77,167,h,T. Antetokounmpo Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+0022100001,488,PT02M34.00S,3,1610612751,BKN,201935,Harden,J. Harden,-26,100,10,Missed,1,,,0,v,MISS Harden 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,354
+0022100001,489,PT02M32.00S,3,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,355
+0022100001,490,PT02M32.00S,3,1610612751,BKN,201935,Harden,J. Harden,0,0,0,Missed,1,,,0,v,MISS Harden Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,356
+0022100001,491,PT02M31.00S,3,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,357
+0022100001,492,PT02M31.00S,3,1610612751,BKN,201935,Harden,J. Harden,-28,24,4,Missed,1,,,0,v,MISS Harden 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,358
+0022100001,492,PT02M31.00S,3,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,,,0,h,T. Antetokounmpo BLOCK (1 BLK),,,1,2,359
+0022100001,494,PT02M29.00S,3,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,360
+0022100001,495,PT02M08.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-12,269,27,Missed,1,,,0,h,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+0022100001,496,PT02M05.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,362
+0022100001,497,PT01M55.00S,3,1610612751,BKN,201988,Mills,P. Mills,228,50,0,Made,1,90,80,170,v,Mills 3PT Jump Shot (18 PTS) (Harden 5 AST),Made Shot,Jump Shot,1,3,363
+0022100001,499,PT01M46.00S,3,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,,,0,v,Mills P.FOUL (P1.PN) (N.Sago),Foul,Personal,1,0,364
+0022100001,501,PT01M46.00S,3,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,365
+0022100001,502,PT01M46.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0,366
+0022100001,503,PT01M46.00S,3,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,91,80,171,h,Hill Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,367
+0022100001,553,PT01M31.00S,3,1610612751,BKN,201935,Harden,J. Harden,-27,99,10,Missed,1,,,0,v,MISS Harden 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,368
+0022100001,553,PT01M31.00S,3,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill BLOCK (1 BLK),,,1,2,369
+0022100001,555,PT01M29.00S,3,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,370
+0022100001,504,PT01M20.00S,3,1610612751,BKN,201935,Harden,J. Harden,-207,172,27,Made,1,91,83,174,v,Harden 27' 3PT Fadeaway Jumper (20 PTS),Made Shot,Fadeaway Jump Shot,1,3,371
+0022100001,505,PT01M13.00S,3,1610612749,MIL,1629670,Nwora,J. Nwora,16,11,2,Missed,1,,,0,h,MISS Nwora 2' Dunk,Missed Shot,Dunk Shot,1,2,372
+0022100001,505,PT01M13.00S,3,1610612751,BKN,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson BLOCK (1 BLK),,,1,2,373
+0022100001,507,PT01M08.00S,3,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,,,0,h,T. Antetokounmpo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,374
+0022100001,508,PT01M07.00S,3,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,17,31,4,Made,1,93,83,176,h,T. Antetokounmpo 4' Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,375
+0022100001,509,PT00M56.30S,3,1610612751,BKN,1629651,Claxton,N. Claxton,-2,19,2,Made,1,93,85,178,v,Claxton 2' Cutting Layup Shot (10 PTS) (Harden 6 AST),Made Shot,Cutting Layup Shot,1,2,376
+0022100001,511,PT00M35.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,6,7,1,Made,1,95,85,180,h,Connaughton 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,377
+0022100001,512,PT00M27.60S,3,1610612751,BKN,201935,Harden,J. Harden,-116,253,28,Missed,1,,,0,v,MISS Harden 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,378
+0022100001,513,PT00M23.60S,3,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,379
+0022100001,514,PT00M02.60S,3,1610612749,MIL,1629670,Nwora,J. Nwora,-66,71,10,Made,1,97,85,182,h,Nwora 10' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,380
+0022100001,515,PT00M00.00S,3,1610612751,BKN,203925,Harris,J. Harris,49,289,29,Missed,1,,,0,v,MISS Harris 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,381
+0022100001,516,PT00M00.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,0,382
+0022100001,517,PT00M00.00S,3,0,,0,,,0,0,0,,0,97,85,182,,End of 3rd Period (9:26 PM EST),period,end,1,0,383
+0022100001,520,PT12M00.00S,4,0,,0,,,0,0,0,,0,97,85,182,,Start of 4th Period (9:29 PM EST),period,start,0,0,384
+0022100001,521,PT11M44.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-81,-10,8,Missed,1,,,0,h,MISS G. Antetokounmpo 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,385
+0022100001,522,PT11M44.00S,4,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,386
+0022100001,523,PT11M44.00S,4,1610612749,MIL,201588,Hill,G. Hill,0,0,0,Missed,1,,,0,h,MISS Hill Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,387
+0022100001,524,PT11M44.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,0,388
+0022100001,525,PT11M44.00S,4,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill L.B.FOUL (P4.T1) (J.Tiven),Foul,Loose Ball,1,0,389
+0022100001,527,PT11M44.00S,4,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,SUB: Allen FOR Hill,Substitution,,0,0,390
+0022100001,529,PT11M32.00S,4,1610612751,BKN,201988,Mills,P. Mills,-22,176,18,Missed,1,,,0,v,MISS Mills 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,391
+0022100001,530,PT11M30.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,h,Connaughton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,392
+0022100001,531,PT11M11.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,393
+0022100001,531,PT11M11.00S,4,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden STEAL (1 STL),,,1,0,394
+0022100001,533,PT11M02.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,2,5,1,Made,1,97,87,184,v,Claxton 1' Alley Oop Layup (12 PTS) (Harden 7 AST),Made Shot,Alley Oop Layup shot,1,2,395
+0022100001,535,PT10M42.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,67,264,27,Missed,1,,,0,h,MISS G. Antetokounmpo 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0022100001,536,PT10M39.00S,4,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,397
+0022100001,537,PT10M22.00S,4,1610612751,BKN,203925,Harris,J. Harris,5,31,3,Missed,1,,,0,v,MISS Harris 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,398
+0022100001,537,PT10M22.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (3 BLK),,,1,2,399
+0022100001,539,PT10M19.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,400
+0022100001,540,PT10M11.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,1,13,1,Made,1,99,87,186,h,G. Antetokounmpo 1' Driving Finger Roll Layup (27 PTS) (Allen 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,401
+0022100001,542,PT09M57.00S,4,1610612751,BKN,201988,Mills,P. Mills,126,236,27,Made,1,99,90,189,v,Mills 27' 3PT Jump Shot (21 PTS) (Harden 8 AST),Made Shot,Jump Shot,1,3,402
+0022100001,544,PT09M39.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,403
+0022100001,544,PT09M39.00S,4,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,,,0,v,Mills STEAL (1 STL),,,1,0,404
+0022100001,546,PT09M34.00S,4,1610612751,BKN,201935,Harden,J. Harden,5,32,3,Missed,1,,,0,v,MISS Harden 3' Running Layup,Missed Shot,Running Layup Shot,1,2,405
+0022100001,546,PT09M34.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,h,Connaughton BLOCK (1 BLK),,,1,2,406
+0022100001,548,PT09M30.00S,4,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,407
+0022100001,549,PT09M12.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,9,16,2,Made,1,101,90,191,h,Connaughton 2' Driving Layup (12 PTS) (Allen 4 AST),Made Shot,Driving Layup Shot,1,2,408
+0022100001,551,PT08M57.00S,4,1610612751,BKN,203925,Harris,J. Harris,210,169,27,Made,1,101,93,194,v,Harris 27' 3PT Jump Shot (9 PTS) (Johnson 2 AST),Made Shot,Jump Shot,1,3,409
+0022100001,556,PT08M41.00S,4,1610612749,MIL,1628960,Allen,G. Allen,-159,225,28,Missed,1,,,0,h,MISS Allen 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+0022100001,557,PT08M38.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,411
+0022100001,558,PT08M37.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,9,13,2,Made,1,103,93,196,h,G. Antetokounmpo 2' Putback Dunk (29 PTS),Made Shot,Putback Dunk Shot,1,2,412
+0022100001,559,PT08M21.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Robinson FOR Lopez,Substitution,,0,0,413
+0022100001,560,PT08M21.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,h,SUB: Middleton FOR Connaughton,Substitution,,0,0,414
+0022100001,561,PT08M21.00S,4,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,,,0,v,SUB: Carter FOR Harris,Substitution,,0,0,415
+0022100001,562,PT08M21.00S,4,1610612751,BKN,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Durant FOR Johnson,Substitution,,0,0,416
+0022100001,567,PT08M15.00S,4,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,0,417
+0022100001,567,PT08M15.00S,4,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen STEAL (2 STL),,,1,0,418
+0022100001,569,PT08M08.00S,4,1610612749,MIL,1629670,Nwora,J. Nwora,185,183,26,Made,1,106,93,199,h,Nwora 26' 3PT Running Jump Shot (13 PTS) (Allen 5 AST),Made Shot,Running Jump Shot,1,3,419
+0022100001,571,PT08M08.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,420
+0022100001,573,PT08M08.00S,4,1610612749,MIL,1629620,Robinson,J. Robinson,0,0,0,,0,,,0,h,SUB: Hill FOR Robinson,Substitution,,0,0,421
+0022100001,574,PT08M08.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Griffin FOR Claxton,Substitution,,0,0,422
+0022100001,577,PT07M46.00S,4,1610612751,BKN,201142,Durant,K. Durant,6,40,4,Missed,1,,,0,v,MISS Durant 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,423
+0022100001,577,PT07M46.00S,4,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora BLOCK (1 BLK),,,1,2,424
+0022100001,579,PT07M42.00S,4,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,425
+0022100001,580,PT07M36.00S,4,1610612749,MIL,1628960,Allen,G. Allen,165,204,26,Made,1,109,93,202,h,Allen 26' 3PT Jump Shot (10 PTS) (G. Antetokounmpo 6 AST),Made Shot,Jump Shot,1,3,426
+0022100001,582,PT07M24.00S,4,1610612751,BKN,201142,Durant,K. Durant,2,4,0,Made,1,109,95,204,v,Durant Driving Layup (26 PTS),Made Shot,Driving Layup Shot,1,2,427
+0022100001,583,PT07M07.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,2,5,1,Made,1,111,95,206,h,G. Antetokounmpo 1' Driving Finger Roll Layup (31 PTS) (Allen 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,428
+0022100001,585,PT07M07.00S,4,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden S.FOUL (P3.T1) (N.Sago),Foul,Shooting,1,0,429
+0022100001,587,PT07M07.00S,4,1610612751,BKN,201935,Harden,J. Harden,0,0,0,,0,,,0,v,SUB: Johnson FOR Harden,Substitution,,0,0,430
+0022100001,589,PT07M07.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,112,95,207,h,G. Antetokounmpo Free Throw 1 of 1 (32 PTS),Free Throw,Free Throw 1 of 1,1,0,431
+0022100001,590,PT06M56.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo P.FOUL (P3.T2) (J.Tiven),Foul,Personal,1,0,432
+0022100001,592,PT06M56.00S,4,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Connaughton FOR Nwora,Substitution,,0,0,433
+0022100001,594,PT06M45.00S,4,1610612751,BKN,201142,Durant,K. Durant,-15,169,17,Missed,1,,,0,v,MISS Durant 17' Jump Shot,Missed Shot,Jump Shot,1,2,434
+0022100001,594,PT06M45.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo BLOCK (2 BLK),,,1,2,435
+0022100001,596,PT06M41.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,436
+0022100001,597,PT06M33.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,-118,244,27,Missed,1,,,0,h,MISS Connaughton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022100001,598,PT06M30.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,438
+0022100001,599,PT06M23.00S,4,1610612751,BKN,201988,Mills,P. Mills,1,53,5,Missed,1,,,0,v,MISS Mills 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,439
+0022100001,600,PT06M20.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,440
+0022100001,601,PT06M20.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,89,244,26,Missed,1,,,0,h,MISS Middleton 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,441
+0022100001,602,PT06M18.00S,4,1610612751,BKN,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,442
+0022100001,603,PT05M56.00S,4,1610612751,BKN,201933,Griffin,B. Griffin,-99,277,29,Missed,1,,,0,v,MISS Griffin 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0022100001,604,PT05M54.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,h,Connaughton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,444
+0022100001,605,PT05M50.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,445
+0022100001,606,PT05M50.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Lopez FOR G. Antetokounmpo,Substitution,,0,0,446
+0022100001,608,PT05M34.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-104,164,19,Missed,1,,,0,h,MISS Middleton 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,447
+0022100001,609,PT05M31.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,448
+0022100001,610,PT05M29.00S,4,1610612751,BKN,1628975,Carter,J. Carter,216,151,26,Missed,1,,,0,v,MISS Carter 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,449
+0022100001,611,PT05M25.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,450
+0022100001,612,PT05M14.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-91,168,19,Missed,1,,,0,h,MISS Middleton 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,451
+0022100001,612,PT05M14.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant BLOCK (2 BLK),,,1,2,452
+0022100001,614,PT05M11.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,Durant REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,453
+0022100001,615,PT05M11.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez S.FOUL (P3.T3) (J.Goble),Foul,Shooting,1,0,454
+0022100001,617,PT05M11.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,MISS Durant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,455
+0022100001,618,PT05M11.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,0,456
+0022100001,619,PT05M11.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,112,96,208,v,Durant Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,457
+0022100001,620,PT04M59.00S,4,1610612749,MIL,1628960,Allen,G. Allen,-65,273,28,Missed,1,,,0,h,MISS Allen 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+0022100001,621,PT04M57.00S,4,1610612751,BKN,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,459
+0022100001,622,PT04M49.00S,4,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,Hill P.FOUL (P5.T4) (J.Tiven),Foul,Personal,1,0,460
+0022100001,624,PT04M39.00S,4,1610612751,BKN,201142,Durant,K. Durant,12,132,13,Made,1,112,98,210,v,Durant 13' Pullup Jump Shot (29 PTS),Made Shot,Pullup Jump shot,1,2,461
+0022100001,625,PT04M16.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,-110,257,28,Made,1,115,98,213,h,Connaughton 28' 3PT Jump Shot (15 PTS) (Hill 3 AST),Made Shot,Jump Shot,1,3,462
+0022100001,627,PT03M57.00S,4,1610612751,BKN,201142,Durant,K. Durant,-60,257,26,Made,1,115,101,216,v,Durant 26' 3PT Pullup Jump Shot (32 PTS),Made Shot,Pullup Jump shot,1,3,463
+0022100001,628,PT03M45.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,464
+0022100001,629,PT03M45.00S,4,1610612749,MIL,201588,Hill,G. Hill,0,0,0,,0,,,0,h,SUB: Nwora FOR Hill,Substitution,,0,0,465
+0022100001,630,PT03M45.00S,4,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: G. Antetokounmpo FOR Allen,Substitution,,0,0,466
+0022100001,631,PT03M45.00S,4,1610612751,BKN,201933,Griffin,B. Griffin,0,0,0,,0,,,0,v,SUB: Bembry FOR Griffin,Substitution,,0,0,467
+0022100001,632,PT03M45.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,,,0,v,SUB: Thomas FOR Durant,Substitution,,0,0,468
+0022100001,633,PT03M45.00S,4,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,,,0,v,SUB: Brown FOR Mills,Substitution,,0,0,469
+0022100001,639,PT03M38.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo Traveling Turnover (P4.T7),Turnover,Traveling,1,0,470
+0022100001,640,PT03M27.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,-82,146,17,Missed,1,,,0,v,MISS Thomas 17' Jump Shot,Missed Shot,Jump Shot,1,2,471
+0022100001,641,PT03M24.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,472
+0022100001,642,PT03M15.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,-5,7,1,Made,1,117,101,218,h,Connaughton 1' Cutting Dunk Shot (17 PTS) (G. Antetokounmpo 7 AST),Made Shot,Cutting Dunk Shot,1,2,473
+0022100001,644,PT03M02.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo S.FOUL (P4.PN) (N.Sago),Foul,Shooting,1,0,474
+0022100001,646,PT03M02.00S,4,1610612751,BKN,201949,Johnson,J. Johnson,0,0,0,,0,117,102,219,v,Johnson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,475
+0022100001,647,PT03M02.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: T. Antetokounmpo FOR Lopez,Substitution,,0,0,476
+0022100001,649,PT03M02.00S,4,1610612751,BKN,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,477
+0022100001,650,PT02M58.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,G. Antetokounmpo REBOUND (Off:5 Def:9),Rebound,Unknown,1,0,478
+0022100001,651,PT02M51.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-97,121,16,Missed,1,,,0,h,MISS Middleton 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,479
+0022100001,652,PT02M48.00S,4,1610612751,BKN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,480
+0022100001,653,PT02M44.00S,4,1610612751,BKN,201949,Johnson,J. Johnson,12,32,3,Missed,1,,,0,v,MISS Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,481
+0022100001,654,PT02M42.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,482
+0022100001,655,PT02M28.00S,4,1610612751,BKN,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0,483
+0022100001,657,PT02M28.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Mamukelashvili FOR G. Antetokounmpo,Substitution,,0,0,484
+0022100001,659,PT02M17.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,1,15,2,Made,1,119,102,221,h,Middleton 2' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,485
+0022100001,660,PT02M10.00S,4,1610612751,BKN,1628975,Carter,J. Carter,10,25,3,Missed,1,,,0,v,MISS Carter 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,486
+0022100001,661,PT02M07.00S,4,1610612749,MIL,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,487
+0022100001,663,PT01M58.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,SUB: Robinson FOR Middleton,Substitution,,0,0,488
+0022100001,665,PT01M48.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,143,222,26,Made,1,122,102,224,h,Connaughton 26' 3PT Jump Shot (20 PTS) (T. Antetokounmpo 1 AST),Made Shot,Jump Shot,1,3,489
+0022100001,667,PT01M32.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,490
+0022100001,667,PT01M32.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,h,Connaughton STEAL (1 STL),,,1,0,491
+0022100001,669,PT01M23.00S,4,1610612749,MIL,1629620,Robinson,J. Robinson,234,17,0,Made,1,125,102,227,h,Robinson 3PT Jump Shot (3 PTS) (Connaughton 2 AST),Made Shot,Jump Shot,1,3,492
+0022100001,671,PT01M16.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,,,0,h,T. Antetokounmpo Personal Take Foul (P1.PN) (J.Tiven),Foul,Personal Take,1,0,493
+0022100001,673,PT01M16.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,125,103,228,v,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,494
+0022100001,676,PT01M16.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,125,104,229,v,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,495
+0022100001,674,PT01M16.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,h,SUB: Kalaitzakis FOR Connaughton,Substitution,,0,0,496
+0022100001,677,PT00M57.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,-12,18,2,Missed,1,,,0,h,MISS T. Antetokounmpo 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,497
+0022100001,677,PT00M57.00S,4,1610612751,BKN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown BLOCK (1 BLK),,,1,2,498
+0022100001,679,PT00M56.50S,4,1610612749,MIL,1630686,Kalaitzakis,B. Kalaitzakis,0,0,0,,0,,,0,h,Kalaitzakis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,499
+0022100001,680,PT00M56.50S,4,1610612749,MIL,1630686,Kalaitzakis,B. Kalaitzakis,17,68,7,Missed,1,,,0,h,MISS Kalaitzakis 7' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,500
+0022100001,681,PT00M55.20S,4,1610612749,MIL,1630686,Kalaitzakis,B. Kalaitzakis,0,0,0,,0,,,0,h,Kalaitzakis REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,501
+0022100001,682,PT00M55.00S,4,1610612749,MIL,1630686,Kalaitzakis,B. Kalaitzakis,0,0,0,Missed,1,,,0,h,MISS Kalaitzakis Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,502
+0022100001,683,PT00M52.50S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,1,0,503
+0022100001,684,PT00M52.50S,4,1610612751,BKN,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson L.B.FOUL (P3.T3) (J.Tiven),Foul,Loose Ball,1,0,504
+0022100001,686,PT00M45.10S,4,1610612749,MIL,1629670,Nwora,J. Nwora,5,12,1,Made,1,127,104,231,h,Nwora 1' Layup (15 PTS),Made Shot,Layup Shot,1,2,505
+0022100001,687,PT00M35.30S,4,1610612751,BKN,1630560,Thomas,C. Thomas,233,129,27,Missed,1,,,0,v,MISS Thomas 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,506
+0022100001,688,PT00M35.30S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,,,0,h,T. Antetokounmpo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,507
+0022100001,689,PT00M11.30S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,508
+0022100001,690,PT00M00.00S,4,1610612751,BKN,201949,Johnson,J. Johnson,123,271,30,Missed,1,,,0,v,MISS Johnson 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,509
+0022100001,691,PT00M00.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,0,510
+0022100001,692,PT00M00.00S,4,0,,0,,,0,0,0,,0,127,104,231,,End of 4th Period (9:58 PM EST),period,end,1,0,511

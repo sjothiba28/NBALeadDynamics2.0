@@ -1,0 +1,412 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0042200401,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:39 PM EST),period,start,0,0,1
+0042200401,4,PT12M00.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jump Ball Jokic vs. Adebayo: Tip to Caldwell-Pope,Jump Ball,,1,0,2
+0042200401,7,PT11M45.00S,1,1610612743,DEN,1627750,Murray,J. Murray,6,29,3,Made,1,2,0,2,h,Murray 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,3
+0042200401,8,PT11M24.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,59,103,12,Missed,1,,,0,v,MISS Vincent 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,4
+0042200401,9,PT11M21.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0042200401,10,PT11M12.00S,1,1610612743,DEN,1627750,Murray,J. Murray,67,253,26,Missed,1,,,0,h,MISS Murray 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,6
+0042200401,11,PT11M10.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0042200401,12,PT11M02.00S,1,1610612748,MIA,1629622,Strus,M. Strus,-18,137,14,Missed,1,,,0,v,MISS Strus 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,8
+0042200401,13,PT10M59.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,9
+0042200401,14,PT10M58.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,-138,-17,14,Made,1,2,2,4,v,Butler 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,10
+0042200401,15,PT10M36.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-227,22,0,Missed,1,,,0,h,MISS Gordon 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0042200401,16,PT10M34.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0042200401,17,PT10M20.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,2,130,13,Missed,1,,,0,v,MISS Adebayo 13' Jump Shot,Missed Shot,Jump Shot,1,2,13
+0042200401,18,PT10M19.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+0042200401,19,PT10M10.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,4,46,5,Missed,1,,,0,h,MISS Gordon 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,15
+0042200401,19,PT10M10.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler BLOCK (1 BLK),,,1,2,16
+0042200401,21,PT10M05.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,17
+0042200401,22,PT10M05.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,Made,1,4,2,6,h,Gordon Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,18
+0042200401,23,PT09M46.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,-189,168,25,Made,1,4,5,9,v,Butler 25' 3PT Pullup Jump Shot (5 PTS) (Strus 1 AST),Made Shot,Pullup Jump shot,1,3,19
+0042200401,24,PT09M27.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-6,4,1,Made,1,6,5,11,h,Gordon 1' Dunk (4 PTS) (Jokic 1 AST),Made Shot,Dunk Shot,1,2,20
+0042200401,26,PT09M11.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,36,83,9,Made,1,6,7,13,v,Adebayo 9' Turnaround Hook Shot (2 PTS) (Vincent 1 AST),Made Shot,Turnaround Hook Shot,1,2,21
+0042200401,28,PT08M56.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,22
+0042200401,30,PT08M56.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,7,7,14,h,Jokic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,23
+0042200401,31,PT08M56.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,8,7,15,h,Jokic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,24
+0042200401,32,PT08M45.00S,1,1610612748,MIA,1628997,Martin,C. Martin,54,41,7,Missed,1,,,0,v,MISS Martin 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,25
+0042200401,34,PT08M45.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,26
+0042200401,36,PT08M31.00S,1,1610612748,MIA,1628997,Martin,C. Martin,-66,222,23,Missed,1,,,0,v,MISS Martin 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,27
+0042200401,37,PT08M29.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,28
+0042200401,38,PT08M22.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,48,251,26,Missed,1,,,0,h,MISS Porter Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,29
+0042200401,39,PT08M20.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,30
+0042200401,40,PT08M13.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,18,57,6,Missed,1,,,0,h,MISS Porter Jr. 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,31
+0042200401,41,PT08M11.00S,1,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+0042200401,43,PT07M52.00S,1,1610612748,MIA,1629622,Strus,M. Strus,135,229,27,Missed,1,,,0,v,MISS Strus 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,33
+0042200401,44,PT07M50.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,34
+0042200401,45,PT07M41.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-15,37,4,Made,1,10,7,17,h,Gordon 4' Layup (6 PTS) (Murray 1 AST),Made Shot,Layup Shot,1,2,35
+0042200401,47,PT07M31.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,-142,64,16,Made,1,10,9,19,v,Vincent 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,36
+0042200401,48,PT07M16.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-78,152,17,Made,1,12,9,21,h,Caldwell-Pope 17' Pullup Jump Shot (2 PTS) (Jokic 2 AST),Made Shot,Pullup Jump shot,1,2,37
+0042200401,50,PT06M56.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,66,116,13,Missed,1,,,0,v,MISS Butler 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,38
+0042200401,50,PT06M56.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. BLOCK (1 BLK),,,1,2,39
+0042200401,52,PT06M55.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,40
+0042200401,53,PT06M54.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,32,14,3,Missed,1,,,0,v,MISS Butler 3' Hook Shot,Missed Shot,Hook Shot,1,2,41
+0042200401,54,PT06M48.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,42
+0042200401,55,PT06M41.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-10,33,3,Made,1,14,9,23,h,Gordon 3' Driving Layup (8 PTS) (Murray 2 AST),Made Shot,Driving Layup Shot,1,2,43
+0042200401,57,PT06M34.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,44
+0042200401,59,PT06M29.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-26,77,8,Missed,1,,,0,v,MISS Adebayo 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,45
+0042200401,60,PT06M26.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,46
+0042200401,61,PT06M20.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,47
+0042200401,61,PT06M20.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,48
+0042200401,63,PT06M19.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,49
+0042200401,65,PT06M15.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,49,247,25,Missed,1,,,0,v,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,50
+0042200401,66,PT06M08.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,51
+0042200401,67,PT06M08.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Made,1,14,11,25,v,Adebayo Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,52
+0042200401,68,PT05M54.00S,1,1610612743,DEN,1627750,Murray,J. Murray,142,31,15,Made,1,16,11,27,h,Murray 15' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,53
+0042200401,69,PT05M34.00S,1,1610612748,MIA,1628997,Martin,C. Martin,34,31,5,Missed,1,,,0,v,MISS Martin 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,54
+0042200401,69,PT05M34.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. BLOCK (2 BLK),,,1,2,55
+0042200401,71,PT05M31.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,56
+0042200401,72,PT05M28.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,31,20,4,Missed,1,,,0,h,MISS Caldwell-Pope 4' Running Layup,Missed Shot,Running Layup Shot,1,2,57
+0042200401,73,PT05M28.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,58
+0042200401,74,PT05M23.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,197,192,28,Made,1,16,14,30,v,Vincent 28' 3PT Jump Shot (5 PTS) (Butler 1 AST),Made Shot,Jump Shot,1,3,59
+0042200401,76,PT05M05.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-2,17,2,Made,1,18,14,32,h,Murray 2' Cutting Dunk Shot (6 PTS) (Jokic 3 AST),Made Shot,Cutting Dunk Shot,1,2,60
+0042200401,78,PT04M52.00S,1,1610612748,MIA,1629622,Strus,M. Strus,241,34,24,Missed,1,,,0,v,MISS Strus 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0042200401,79,PT04M49.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,62
+0042200401,80,PT04M39.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,6,2,1,Made,1,20,14,34,h,Gordon 1' Driving Layup (10 PTS) (Jokic 4 AST),Made Shot,Driving Layup Shot,1,2,63
+0042200401,83,PT04M12.00S,1,1610612748,MIA,1629622,Strus,M. Strus,-232,-1,0,Missed,1,,,0,v,MISS Strus 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+0042200401,84,PT04M10.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,65
+0042200401,85,PT04M00.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-18,17,2,Made,1,22,14,36,h,Gordon 2' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,66
+0042200401,86,PT03M46.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-1,155,16,Made,1,22,16,38,v,Adebayo 16' Pullup Jump Shot (6 PTS) (Vincent 2 AST),Made Shot,Pullup Jump shot,1,2,67
+0042200401,88,PT03M29.00S,1,1610612743,DEN,1627750,Murray,J. Murray,5,4,1,Made,1,24,16,40,h,Murray 1' Cutting Dunk Shot (8 PTS) (Jokic 5 AST),Made Shot,Cutting Dunk Shot,1,2,68
+0042200401,90,PT03M15.00S,1,1610612748,MIA,1628997,Martin,C. Martin,-72,114,13,Missed,1,,,0,v,MISS Martin 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,69
+0042200401,91,PT03M06.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,70
+0042200401,92,PT02M57.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-235,6,24,Missed,1,,,0,h,MISS Porter Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+0042200401,93,PT02M57.00S,1,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,72
+0042200401,94,PT02M44.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,28,6,3,Made,1,24,18,42,v,Butler 3' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,73
+0042200401,95,PT02M31.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,33,258,26,Made,1,27,18,45,h,Porter Jr. 26' 3PT Jump Shot (3 PTS) (Jokic 6 AST),Made Shot,Jump Shot,1,3,74
+0042200401,97,PT02M08.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-100,-4,10,Made,1,27,20,47,v,Adebayo 10' Jump Shot (8 PTS) (Strus 2 AST),Made Shot,Jump Shot,1,2,75
+0042200401,99,PT01M59.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,76
+0042200401,100,PT01M59.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Brown FOR Porter Jr.,Substitution,,0,0,77
+0042200401,101,PT01M59.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Braun FOR Murray,Substitution,,0,0,78
+0042200401,102,PT01M59.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Lowry FOR Adebayo,Substitution,,0,0,79
+0042200401,103,PT01M59.00S,1,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,SUB: Zeller FOR Strus,Substitution,,0,0,80
+0042200401,104,PT01M59.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,SUB: Robinson FOR Vincent,Substitution,,0,0,81
+0042200401,110,PT01M42.00S,1,1610612743,DEN,1631128,Braun,C. Braun,31,10,3,Missed,1,,,0,h,MISS Braun 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,82
+0042200401,111,PT01M41.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,83
+0042200401,112,PT01M27.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,161,3,16,Missed,1,,,0,v,MISS Butler 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,84
+0042200401,113,PT01M24.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,85
+0042200401,114,PT01M19.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope OFF.Foul (P1) (E.Malloy),Foul,Offensive,1,0,86
+0042200401,116,PT01M19.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,87
+0042200401,117,PT00M57.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson OFF.Foul (P1) (E.Malloy),Foul,Offensive,1,0,88
+0042200401,119,PT00M57.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,89
+0042200401,120,PT00M39.80S,1,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,90
+0042200401,120,PT00M39.80S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler STEAL (1 STL),,,1,0,91
+0042200401,122,PT00M28.60S,1,1610612748,MIA,202710,Butler III,J. Butler III,151,209,26,Missed,1,,,0,v,MISS Butler 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,92
+0042200401,123,PT00M27.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,93
+0042200401,125,PT00M27.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Braun,Substitution,,0,0,94
+0042200401,126,PT00M27.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Highsmith FOR Martin,Substitution,,0,0,95
+0042200401,129,PT00M07.40S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,105,233,26,Missed,1,,,0,h,MISS Caldwell-Pope 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0042200401,130,PT00M05.00S,1,1610612748,MIA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0042200401,131,PT00M03.80S,1,1610612748,MIA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,Zeller Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,98
+0042200401,131,PT00M03.80S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic STEAL (1 STL),,,1,0,99
+0042200401,133,PT00M03.30S,1,1610612743,DEN,203999,Jokić,N. Jokić,16,4,2,Made,1,29,20,49,h,Jokic 2' Layup (4 PTS) (Gordon 1 AST),Made Shot,Layup Shot,1,2,100
+0042200401,135,PT00M00.10S,1,1610612748,MIA,200768,Lowry,K. Lowry,15,393,39,Missed,1,,,0,v,MISS Lowry 39' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,101
+0042200401,136,PT00M00.10S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,102
+0042200401,137,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,20,49,,End of 1st Period (9:01 PM EST),period,end,1,0,103
+0042200401,148,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,20,49,,Start of 2nd Period (9:05 PM EST),period,start,0,0,104
+0042200401,149,PT11M45.00S,2,1610612748,MIA,1629216,Vincent,G. Vincent,243,48,25,Missed,1,,,0,v,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,105
+0042200401,150,PT11M40.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+0042200401,151,PT11M29.00S,2,1610612743,DEN,1628971,Brown,B. Brown,40,15,4,Missed,1,,,0,h,MISS Brown 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,107
+0042200401,152,PT11M27.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+0042200401,153,PT11M19.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,-234,79,25,Missed,1,,,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0042200401,154,PT11M15.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,110
+0042200401,158,PT11M05.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,123,300,32,Missed,1,,,0,v,MISS Lowry 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0042200401,159,PT11M02.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,112
+0042200401,160,PT10M54.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,Braun S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,113
+0042200401,162,PT10M54.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,29,21,50,v,Highsmith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,114
+0042200401,163,PT10M54.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,29,22,51,v,Highsmith Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,115
+0042200401,164,PT10M31.00S,2,1610612743,DEN,1627750,Murray,J. Murray,37,267,27,Made,1,32,22,54,h,Murray 27' 3PT Step Back Jump Shot (11 PTS) (Brown 1 AST),Made Shot,Step Back Jump shot,1,3,116
+0042200401,166,PT10M13.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,44,95,10,Missed,1,,,0,v,MISS Adebayo 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,117
+0042200401,167,PT10M09.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,118
+0042200401,168,PT10M01.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,119
+0042200401,169,PT09M51.00S,2,1610612743,DEN,201145,Green,J. Green,-40,60,7,Missed,1,,,0,h,MISS Green 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,120
+0042200401,170,PT09M49.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,121
+0042200401,171,PT09M42.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,-11,10,1,Made,1,32,24,56,v,Highsmith 1' Reverse Layup (4 PTS) (Lowry 1 AST),Made Shot,Reverse Layup Shot,1,2,122
+0042200401,173,PT09M21.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-232,37,0,Made,1,35,24,59,h,Porter Jr. 3PT Jump Shot (6 PTS) (Braun 1 AST),Made Shot,Jump Shot,1,3,123
+0042200401,175,PT09M07.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,Braun P.FOUL (P2.T2) (D.Guthrie),Foul,Personal,1,0,124
+0042200401,177,PT08M59.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,-223,5,0,Made,1,35,27,62,v,Robinson 3PT Jump Shot (3 PTS) (Vincent 3 AST),Made Shot,Jump Shot,1,3,125
+0042200401,179,PT08M42.00S,2,1610612743,DEN,201145,Green,J. Green,-17,62,6,Made,1,37,27,64,h,Green 6' Turnaround Hook Shot (2 PTS) (Brown 2 AST),Made Shot,Turnaround Hook Shot,1,2,126
+0042200401,181,PT08M32.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,127
+0042200401,183,PT08M22.00S,2,1610612743,DEN,1628971,Brown,B. Brown,-58,131,14,Missed,1,,,0,h,MISS Brown 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,128
+0042200401,184,PT08M18.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,129
+0042200401,185,PT08M18.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,Made,1,39,27,66,h,Porter Jr. Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,130
+0042200401,186,PT07M49.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-34,6,3,Made,1,39,29,68,v,Adebayo 3' Layup (10 PTS) (Robinson 1 AST),Made Shot,Layup Shot,1,2,131
+0042200401,188,PT07M27.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,Braun Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,132
+0042200401,188,PT07M27.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry STEAL (1 STL),,,1,0,133
+0042200401,190,PT07M20.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,16,4,2,Made,1,39,31,70,v,Adebayo 2' Dunk (12 PTS) (Lowry 2 AST),Made Shot,Dunk Shot,1,2,134
+0042200401,192,PT07M18.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,135
+0042200401,193,PT07M18.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,SUB: Jokic FOR Braun,Substitution,,0,0,136
+0042200401,194,PT07M18.00S,2,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,h,SUB: Gordon FOR Green,Substitution,,0,0,137
+0042200401,195,PT07M18.00S,2,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,SUB: Butler FOR Vincent,Substitution,,0,0,138
+0042200401,199,PT06M58.00S,2,1610612743,DEN,1627750,Murray,J. Murray,169,139,22,Missed,1,,,0,h,MISS Murray 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,139
+0042200401,200,PT06M57.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0042200401,201,PT06M48.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,33,134,14,Made,1,39,33,72,v,Lowry 14' Driving Floating Jump Shot (2 PTS) (Adebayo 1 AST),Made Shot,Driving Floating Jump Shot,1,2,141
+0042200401,203,PT06M33.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-9,7,1,Made,1,41,33,74,h,Porter Jr. 1' Driving Dunk (10 PTS) (Murray 3 AST),Made Shot,Driving Dunk Shot,1,2,142
+0042200401,205,PT06M24.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,147,56,16,Made,1,41,35,76,v,Adebayo 16' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,143
+0042200401,206,PT06M08.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-126,168,21,Made,1,43,35,78,h,Murray 21' Pullup Jump Shot (13 PTS) (Jokic 7 AST),Made Shot,Pullup Jump shot,1,2,144
+0042200401,208,PT05M47.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,-4,5,1,Made,1,43,37,80,v,Highsmith 1' Cutting Dunk Shot (6 PTS) (Adebayo 2 AST),Made Shot,Cutting Dunk Shot,1,2,145
+0042200401,210,PT05M30.00S,2,1610612743,DEN,1628971,Brown,B. Brown,-225,115,25,Made,1,46,37,83,h,Brown 25' 3PT Jump Shot (3 PTS) (Jokic 8 AST),Made Shot,Jump Shot,1,3,146
+0042200401,212,PT05M09.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,1,73,7,Missed,1,,,0,v,MISS Adebayo 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,147
+0042200401,213,PT05M07.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,148
+0042200401,214,PT04M53.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,149
+0042200401,216,PT04M53.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,47,37,84,h,Jokic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,150
+0042200401,217,PT04M53.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Brown,Substitution,,0,0,151
+0042200401,218,PT04M53.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Zeller FOR Adebayo,Substitution,,0,0,152
+0042200401,219,PT04M53.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Martin FOR Highsmith,Substitution,,0,0,153
+0042200401,223,PT04M53.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,48,37,85,h,Jokic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,154
+0042200401,224,PT04M29.00S,2,1610612748,MIA,203469,Zeller,C. Zeller,1,30,3,Missed,1,,,0,v,MISS Zeller 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,155
+0042200401,225,PT04M28.00S,2,1610612748,MIA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,156
+0042200401,226,PT04M23.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,49,29,6,Missed,1,,,0,v,MISS Robinson 6' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,157
+0042200401,227,PT04M22.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,158
+0042200401,228,PT04M18.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson P.FOUL (P2.T2) (E.Malloy),Foul,Personal,1,0,159
+0042200401,230,PT04M18.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Strus FOR Lowry,Substitution,,0,0,160
+0042200401,231,PT04M18.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Vincent FOR Robinson,Substitution,,0,0,161
+0042200401,234,PT04M01.00S,2,1610612743,DEN,1627750,Murray,J. Murray,126,54,14,Missed,1,,,0,h,MISS Murray 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,162
+0042200401,235,PT03M57.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,163
+0042200401,236,PT03M37.00S,2,1610612748,MIA,1629622,Strus,M. Strus,130,247,28,Missed,1,,,0,v,MISS Strus 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0042200401,237,PT03M34.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,165
+0042200401,238,PT03M21.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,22,10,2,Made,1,50,37,87,h,Jokic 2' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,166
+0042200401,239,PT03M21.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,167
+0042200401,240,PT03M03.00S,2,1610612748,MIA,1628997,Martin,C. Martin,120,195,23,Missed,1,,,0,v,MISS Martin 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,168
+0042200401,241,PT03M00.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,169
+0042200401,242,PT02M58.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-194,179,26,Missed,1,,,0,h,MISS Porter Jr. 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,170
+0042200401,243,PT02M54.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,171
+0042200401,244,PT02M47.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,168,115,20,Missed,1,,,0,v,MISS Butler 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,172
+0042200401,245,PT02M43.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,173
+0042200401,246,PT02M30.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,17,0,2,Made,1,52,37,89,h,Gordon 2' Layup (14 PTS) (Jokic 9 AST),Made Shot,Layup Shot,1,2,174
+0042200401,248,PT02M17.00S,2,1610612748,MIA,1629216,Vincent,G. Vincent,94,245,26,Made,1,52,40,92,v,Vincent 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,175
+0042200401,249,PT01M58.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,43,185,19,Missed,1,,,0,h,MISS Caldwell-Pope 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,176
+0042200401,250,PT01M54.00S,2,1610612748,MIA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,Zeller REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,177
+0042200401,252,PT01M51.00S,2,1610612748,MIA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,SUB: Adebayo FOR Zeller,Substitution,,0,0,178
+0042200401,254,PT01M41.00S,2,1610612748,MIA,1629622,Strus,M. Strus,-163,180,24,Missed,1,,,0,v,MISS Strus 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+0042200401,255,PT01M37.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,180
+0042200401,256,PT01M32.00S,2,1610612743,DEN,1627750,Murray,J. Murray,18,13,2,Missed,1,,,0,h,MISS Murray 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,181
+0042200401,256,PT01M32.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (1 BLK),,,1,2,182
+0042200401,258,PT01M32.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,183
+0042200401,259,PT01M24.00S,2,1610612748,MIA,1629622,Strus,M. Strus,-206,146,25,Missed,1,,,0,v,MISS Strus 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,184
+0042200401,260,PT01M21.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,185
+0042200401,261,PT01M08.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-143,154,21,Made,1,54,40,94,h,Murray 21' Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,2,186
+0042200401,262,PT00M54.90S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,48,77,9,Made,1,54,42,96,v,Adebayo 9' Floating Jump Shot (16 PTS) (Butler 2 AST),Made Shot,Floating Jump shot,1,2,187
+0042200401,264,PT00M38.30S,2,1610612743,DEN,1627750,Murray,J. Murray,11,258,26,Made,1,57,42,99,h,Murray 26' 3PT Jump Shot (18 PTS) (Jokic 10 AST),Made Shot,Jump Shot,1,3,188
+0042200401,266,PT00M20.40S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,189
+0042200401,267,PT00M20.40S,2,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,SUB: Highsmith FOR Vincent,Substitution,,0,0,190
+0042200401,269,PT00M04.40S,2,1610612743,DEN,203999,Jokić,N. Jokić,-18,44,5,Made,1,59,42,101,h,Jokic 5' Turnaround Hook Shot (10 PTS) (Murray 4 AST),Made Shot,Turnaround Hook Shot,1,2,191
+0042200401,271,PT00M00.10S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,200,174,27,Missed,1,,,0,v,MISS Adebayo 27' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,192
+0042200401,272,PT00M00.10S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,193
+0042200401,273,PT00M00.00S,2,0,,0,,,0,0,0,,0,59,42,101,,End of 2nd Period (9:29 PM EST),period,end,1,0,194
+0042200401,276,PT12M00.00S,3,0,,0,,,0,0,0,,0,59,42,101,,Start of 3rd Period (9:45 PM EST),period,start,0,0,195
+0042200401,277,PT11M49.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-88,120,15,Made,1,59,44,103,v,Adebayo 15' Jump Shot (18 PTS) (Vincent 4 AST),Made Shot,Jump Shot,0,2,196
+0042200401,279,PT11M30.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,66,247,26,Missed,1,,,0,h,MISS Jokic 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,197
+0042200401,280,PT11M27.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,198
+0042200401,281,PT11M12.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-127,70,15,Made,1,59,46,105,v,Adebayo 15' Fadeaway Bank Shot (20 PTS) (Strus 3 AST),Made Shot,Fadeaway Bank shot,1,2,199
+0042200401,283,PT11M03.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo P.FOUL (P2.T1) (M.Davis),Foul,Personal,1,0,200
+0042200401,285,PT10M47.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,-115,-7,12,Missed,1,,,0,h,MISS Gordon 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,201
+0042200401,286,PT10M44.00S,3,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,202
+0042200401,287,PT10M32.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,-235,15,24,Made,1,59,49,108,v,Vincent 24' 3PT Jump Shot (11 PTS) (Butler 3 AST),Made Shot,Jump Shot,1,3,203
+0042200401,289,PT10M11.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-16,253,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+0042200401,290,PT10M07.00S,3,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,205
+0042200401,291,PT09M59.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-40,6,4,Missed,1,,,0,v,MISS Adebayo 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,206
+0042200401,292,PT09M57.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,207
+0042200401,344,PT09M55.00S,3,1610612743,DEN,1627750,Murray,J. Murray,32,42,5,Missed,1,,,0,h,MISS Murray 5' Running Layup,Missed Shot,Running Layup Shot,1,2,208
+0042200401,344,PT09M55.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent BLOCK (1 BLK),,,1,2,209
+0042200401,346,PT09M54.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,210
+0042200401,293,PT09M53.00S,3,1610612743,DEN,1627750,Murray,J. Murray,25,16,3,Made,1,61,49,110,h,Murray 3' Putback Layup (20 PTS),Made Shot,Putback Layup Shot,1,2,211
+0042200401,294,PT09M53.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,0,212
+0042200401,296,PT09M53.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,62,49,111,h,Murray Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,213
+0042200401,297,PT09M43.00S,3,1610612748,MIA,1628997,Martin,C. Martin,233,8,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,214
+0042200401,298,PT09M39.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,215
+0042200401,299,PT09M32.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic OFF.Foul (P1) (E.Malloy),Foul,Offensive,1,0,216
+0042200401,301,PT09M32.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,217
+0042200401,302,PT09M20.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,143,46,15,Missed,1,,,0,v,MISS Butler 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,218
+0042200401,303,PT09M14.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,219
+0042200401,304,PT09M14.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Missed,1,,,0,v,MISS Adebayo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,220
+0042200401,305,PT09M14.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,221
+0042200401,306,PT09M14.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Missed,1,,,0,v,MISS Adebayo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,222
+0042200401,307,PT09M13.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,223
+0042200401,308,PT09M11.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-173,193,26,Missed,1,,,0,h,MISS Porter Jr. 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,224
+0042200401,309,PT09M08.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,225
+0042200401,310,PT08M52.00S,3,1610612748,MIA,1629622,Strus,M. Strus,230,-8,0,Missed,1,,,0,v,MISS Strus 3PT Jump Shot,Missed Shot,Jump Shot,1,3,226
+0042200401,311,PT08M49.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,227
+0042200401,312,PT08M44.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P1.T3) (E.Malloy),Foul,Personal,1,0,228
+0042200401,314,PT08M37.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-120,13,12,Made,1,64,49,113,h,Murray 12' Driving Floating Jump Shot (23 PTS) (Jokic 11 AST),Made Shot,Driving Floating Jump Shot,1,2,229
+0042200401,316,PT08M37.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.T4) (M.Davis),Foul,Shooting,1,0,230
+0042200401,318,PT08M37.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,65,49,114,h,Murray Free Throw 1 of 1 (24 PTS),Free Throw,Free Throw 1 of 1,1,0,231
+0042200401,319,PT08M28.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,-4,10,1,Made,1,65,51,116,v,Butler 1' Cutting Dunk Shot (9 PTS) (Adebayo 3 AST),Made Shot,Cutting Dunk Shot,1,2,232
+0042200401,321,PT08M12.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-91,241,26,Missed,1,,,0,h,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,233
+0042200401,322,PT08M08.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,234
+0042200401,324,PT07M54.00S,3,1610612748,MIA,1629622,Strus,M. Strus,179,180,25,Missed,1,,,0,v,MISS Strus 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+0042200401,324,PT07M54.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon BLOCK (1 BLK),,,1,3,236
+0042200401,326,PT07M54.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,237
+0042200401,328,PT07M48.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-28,15,3,Missed,1,,,0,v,MISS Adebayo 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,238
+0042200401,329,PT07M47.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,239
+0042200401,330,PT07M44.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,1,0,240
+0042200401,332,PT07M44.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,66,51,117,h,Porter Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,241
+0042200401,333,PT07M44.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,67,51,118,h,Porter Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,242
+0042200401,335,PT07M29.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,25,3,Made,1,67,53,120,v,Adebayo 3' Driving Dunk (22 PTS),Made Shot,Driving Dunk Shot,1,2,243
+0042200401,336,PT07M08.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P3.PN) (E.Malloy),Foul,Shooting,1,0,244
+0042200401,338,PT07M08.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,68,53,121,h,Jokic Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,245
+0042200401,339,PT07M08.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,MISS Jokic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,246
+0042200401,340,PT07M06.00S,3,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,247
+0042200401,341,PT06M54.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-9,97,10,Missed,1,,,0,v,MISS Adebayo 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,248
+0042200401,342,PT06M49.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,249
+0042200401,343,PT06M49.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,Made,1,68,55,123,v,Butler Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,250
+0042200401,347,PT06M25.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-123,219,25,Made,1,71,55,126,h,Jokic 25' 3PT Jump Shot (14 PTS) (Murray 5 AST),Made Shot,Jump Shot,1,3,251
+0042200401,349,PT06M12.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope P.FOUL (P2.T1) (M.Davis),Foul,Personal,1,0,252
+0042200401,351,PT06M12.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,253
+0042200401,352,PT06M12.00S,3,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,SUB: Robinson FOR Strus,Substitution,,0,0,254
+0042200401,354,PT06M01.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,-136,71,15,Missed,1,,,0,v,MISS Vincent 15' Step Back Bank Jump Shot,Missed Shot,Step Back Bank Jump Shot,1,2,255
+0042200401,355,PT05M59.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,256
+0042200401,356,PT05M55.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,38,26,5,Missed,1,,,0,h,MISS Caldwell-Pope 5' Running Layup,Missed Shot,Running Layup Shot,1,2,257
+0042200401,357,PT05M53.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,258
+0042200401,358,PT05M48.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,-21,131,13,Missed,1,,,0,v,MISS Butler 13' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,259
+0042200401,359,PT05M43.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,260
+0042200401,360,PT05M43.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,261
+0042200401,360,PT05M43.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray STEAL (1 STL),,,1,0,262
+0042200401,362,PT05M39.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,244,30,25,Made,1,74,55,129,h,Caldwell-Pope 25' 3PT Running Jump Shot (5 PTS) (Murray 6 AST),Made Shot,Running Jump Shot,1,3,263
+0042200401,364,PT05M19.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,5,127,13,Made,1,74,57,131,v,Adebayo 13' Jump Shot (24 PTS) (Butler 4 AST),Made Shot,Jump Shot,1,2,264
+0042200401,366,PT04M58.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,135,219,26,Missed,1,,,0,h,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+0042200401,367,PT04M52.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,266
+0042200401,368,PT04M40.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,-66,254,26,Missed,1,,,0,v,MISS Robinson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,267
+0042200401,369,PT04M37.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,268
+0042200401,370,PT04M26.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray Offensive Charge Foul (P2) (E.Malloy),Foul,Offensive Charge,1,0,269
+0042200401,372,PT04M26.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,270
+0042200401,373,PT04M26.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,SUB: Brown FOR Caldwell-Pope,Substitution,,0,0,271
+0042200401,374,PT04M26.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,SUB: Lowry FOR Vincent,Substitution,,0,0,272
+0042200401,377,PT04M09.00S,3,1610612748,MIA,1628997,Martin,C. Martin,-169,215,27,Made,1,74,60,134,v,Martin 27' 3PT Jump Shot (3 PTS) (Butler 5 AST),Made Shot,Jump Shot,1,3,273
+0042200401,379,PT03M52.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Violation:Kicked Ball (D.Guthrie),Violation,Kicked Ball,0,0,274
+0042200401,380,PT03M52.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Highsmith FOR Martin,Substitution,,0,0,275
+0042200401,382,PT03M48.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-22,183,18,Made,1,76,60,136,h,Porter Jr. 18' Jump Shot (14 PTS) (Murray 7 AST),Made Shot,Jump Shot,1,2,276
+0042200401,384,PT03M31.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-72,84,11,Missed,1,,,0,v,MISS Adebayo 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,277
+0042200401,385,PT03M29.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,278
+0042200401,386,PT03M20.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-150,90,17,Missed,1,,,0,h,MISS Murray 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,279
+0042200401,387,PT03M16.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,280
+0042200401,388,PT03M10.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,119,153,19,Missed,1,,,0,v,MISS Butler 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,281
+0042200401,389,PT03M07.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,282
+0042200401,390,PT02M51.00S,3,1610612743,DEN,1628971,Brown,B. Brown,-88,245,26,Made,1,79,60,139,h,Brown 26' 3PT Jump Shot (6 PTS) (Murray 8 AST),Made Shot,Jump Shot,1,3,283
+0042200401,392,PT02M51.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,284
+0042200401,393,PT02M51.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,SUB: Green FOR Gordon,Substitution,,0,0,285
+0042200401,394,PT02M51.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Zeller FOR Adebayo,Substitution,,0,0,286
+0042200401,397,PT02M28.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,-121,142,19,Missed,1,,,0,v,MISS Lowry 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,287
+0042200401,398,PT02M26.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,288
+0042200401,399,PT02M08.00S,3,1610612743,DEN,1628971,Brown,B. Brown,40,98,11,Made,1,81,60,141,h,Brown 11' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,289
+0042200401,401,PT01M57.00S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,1,0,290
+0042200401,403,PT01M57.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Braun FOR Murray,Substitution,,0,0,291
+0042200401,405,PT01M43.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,124,228,26,Missed,1,,,0,v,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,292
+0042200401,406,PT01M41.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,293
+0042200401,408,PT01M29.00S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,294
+0042200401,410,PT01M11.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,60,64,9,Missed,1,,,0,v,MISS Highsmith 9' Hook Shot,Missed Shot,Hook Shot,1,2,295
+0042200401,411,PT01M09.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,296
+0042200401,412,PT01M01.00S,3,1610612748,MIA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,Zeller S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,1,0,297
+0042200401,414,PT01M01.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,MISS Jokic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,298
+0042200401,415,PT01M01.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,299
+0042200401,416,PT01M01.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,82,60,142,h,Jokic Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,300
+0042200401,417,PT00M53.70S,3,1610612748,MIA,1629130,Robinson,D. Robinson,206,157,26,Missed,1,,,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0042200401,418,PT00M51.50S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,302
+0042200401,419,PT00M40.60S,3,1610612743,DEN,1628971,Brown,B. Brown,74,105,13,Made,1,84,60,144,h,Brown 13' Driving Floating Jump Shot (10 PTS) (Jokic 12 AST),Made Shot,Driving Floating Jump Shot,1,2,303
+0042200401,421,PT00M32.50S,3,1610612748,MIA,200768,Lowry,K. Lowry,151,205,25,Made,1,84,63,147,v,Lowry 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,304
+0042200401,422,PT00M22.70S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown Backcourt Turnover (P3.T8),Turnover,Backcourt Turnover,1,0,305
+0042200401,423,PT00M22.70S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Strus FOR Highsmith,Substitution,,0,0,306
+0042200401,425,PT00M22.70S,3,1610612748,MIA,203469,Zeller,C. Zeller,0,0,0,,0,,,0,v,SUB: Adebayo FOR Zeller,Substitution,,0,0,307
+0042200401,427,PT00M22.70S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,SUB: Gordon FOR Jokic,Substitution,,0,0,308
+0042200401,429,PT00M03.50S,3,1610612748,MIA,1629622,Strus,M. Strus,-168,232,29,Missed,1,,,0,v,MISS Strus 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+0042200401,430,PT00M03.50S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,310
+0042200401,431,PT00M00.00S,3,0,,0,,,0,0,0,,0,84,63,147,,End of 3rd Period (10:13 PM EST),period,end,1,0,311
+0042200401,442,PT12M00.00S,4,0,,0,,,0,0,0,,0,84,63,147,,Start of 4th Period (10:16 PM EST),period,start,0,0,312
+0042200401,443,PT11M55.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,313
+0042200401,443,PT11M55.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (1 STL),,,1,0,314
+0042200401,445,PT11M51.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,28,7,3,Made,1,84,65,149,v,Highsmith 3' Layup (8 PTS),Made Shot,Layup Shot,1,2,315
+0042200401,446,PT11M33.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,7,61,6,Missed,1,,,0,h,MISS Jokic 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,316
+0042200401,447,PT11M31.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,317
+0042200401,448,PT11M18.00S,4,1610612748,MIA,1629216,Vincent,G. Vincent,-232,4,0,Made,1,84,68,152,v,Vincent 3PT Jump Shot (14 PTS) (Lowry 3 AST),Made Shot,Jump Shot,1,3,318
+0042200401,450,PT11M02.00S,4,1610612743,DEN,1627750,Murray,J. Murray,9,141,14,Missed,1,,,0,h,MISS Murray 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,319
+0042200401,451,PT11M00.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,320
+0042200401,452,PT10M46.00S,4,1610612748,MIA,1629216,Vincent,G. Vincent,-232,8,0,Missed,1,,,0,v,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0042200401,453,PT10M41.00S,4,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,322
+0042200401,454,PT10M25.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-183,190,26,Missed,1,,,0,h,MISS Murray 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,323
+0042200401,458,PT10M22.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,324
+0042200401,455,PT10M22.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jump Ball Jokic vs. Adebayo: Tip to Lowry,Jump Ball,,0,0,325
+0042200401,459,PT10M03.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,-28,260,26,Made,1,84,71,155,v,Lowry 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,326
+0042200401,460,PT10M02.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,327
+0042200401,461,PT09M40.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,-56,172,18,Missed,1,,,0,h,MISS Jokic 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,328
+0042200401,462,PT09M37.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,329
+0042200401,463,PT09M29.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,-43,259,26,Made,1,84,74,158,v,Lowry 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,330
+0042200401,464,PT09M02.00S,4,1610612743,DEN,201145,Green,J. Green,22,13,3,Made,1,86,74,160,h,Green 3' Reverse Layup (4 PTS) (Jokic 13 AST),Made Shot,Reverse Layup Shot,1,2,331
+0042200401,466,PT08M39.00S,4,1610612748,MIA,1629216,Vincent,G. Vincent,-23,280,28,Missed,1,,,0,v,MISS Vincent 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+0042200401,467,PT08M36.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,1,0,333
+0042200401,469,PT08M36.00S,4,1610612743,DEN,201145,Green,J. Green,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Green,Substitution,,0,0,334
+0042200401,471,PT08M18.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-227,-21,0,Missed,1,,,0,h,MISS Porter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+0042200401,472,PT08M16.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,336
+0042200401,473,PT08M08.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,6,263,26,Missed,1,,,0,v,MISS Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,337
+0042200401,474,PT08M06.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,338
+0042200401,475,PT07M58.00S,4,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,339
+0042200401,477,PT07M58.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,87,74,161,h,Jokic Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,340
+0042200401,478,PT07M58.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,88,74,162,h,Jokic Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,341
+0042200401,479,PT07M46.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,342
+0042200401,481,PT07M28.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,343
+0042200401,481,PT07M28.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (2 STL),,,1,0,344
+0042200401,483,PT07M25.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,345
+0042200401,483,PT07M25.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown STEAL (1 STL),,,1,0,346
+0042200401,485,PT07M16.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,31,1,3,Made,1,90,74,164,h,Jokic 3' Layup (19 PTS) (Porter Jr. 1 AST),Made Shot,Layup Shot,1,2,347
+0042200401,487,PT07M16.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,348
+0042200401,488,PT07M16.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,SUB: Gordon FOR Jokic,Substitution,,0,0,349
+0042200401,489,PT07M16.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Butler FOR Robinson,Substitution,,0,0,350
+0042200401,492,PT06M54.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-10,113,11,Made,1,90,76,166,v,Adebayo 11' Jump Shot (26 PTS) (Vincent 5 AST),Made Shot,Jump Shot,1,2,351
+0042200401,494,PT06M26.00S,4,1610612743,DEN,1627750,Murray,J. Murray,138,101,17,Made,1,92,76,168,h,Murray 17' Turnaround Fadeaway (26 PTS),Made Shot,Turnaround Fadeaway shot,1,2,352
+0042200401,495,PT06M15.00S,4,1610612748,MIA,1629216,Vincent,G. Vincent,28,12,3,Made,1,92,78,170,v,Vincent 3' Finger Roll Layup (16 PTS),Made Shot,Finger Roll Layup Shot,1,2,353
+0042200401,496,PT05M52.00S,4,1610612743,DEN,1628971,Brown,B. Brown,-114,256,28,Missed,1,,,0,h,MISS Brown 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0042200401,497,PT05M49.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,355
+0042200401,498,PT05M41.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,-235,-10,24,Missed,1,,,0,v,MISS Lowry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+0042200401,499,PT05M38.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,357
+0042200401,500,PT05M25.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,165,213,27,Missed,1,,,0,h,MISS Porter Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0042200401,501,PT05M22.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,359
+0042200401,502,PT05M14.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,230,-3,0,Missed,1,,,0,v,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+0042200401,503,PT05M10.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,361
+0042200401,504,PT04M49.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-115,272,30,Missed,1,,,0,h,MISS Murray 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,362
+0042200401,505,PT04M47.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,363
+0042200401,506,PT04M47.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry S.FOUL (P1.T2) (M.Davis),Foul,Shooting,1,0,364
+0042200401,508,PT04M47.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,MISS Caldwell-Pope Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,365
+0042200401,509,PT04M47.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,366
+0042200401,510,PT04M47.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,SUB: Jokic FOR Brown,Substitution,,0,0,367
+0042200401,512,PT04M47.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,MISS Caldwell-Pope Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,368
+0042200401,513,PT04M45.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,369
+0042200401,514,PT04M41.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,1,8,1,Made,1,92,80,172,v,Butler 1' Running Dunk (13 PTS) (Adebayo 4 AST),Made Shot,Running Dunk Shot,1,2,370
+0042200401,516,PT04M41.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,371
+0042200401,517,PT04M24.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-225,24,0,Missed,1,,,0,h,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,1,3,372
+0042200401,518,PT04M21.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,373
+0042200401,519,PT04M16.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,26,7,3,Made,1,92,82,174,v,Highsmith 3' Running Finger Roll Layup (10 PTS) (Lowry 4 AST),Made Shot,Running Finger Roll Layup Shot,1,2,374
+0042200401,521,PT03M56.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,22,77,8,Made,1,94,82,176,h,Jokic 8' Floating Jump Shot (21 PTS) (Murray 9 AST),Made Shot,Floating Jump shot,1,2,375
+0042200401,523,PT03M43.00S,4,1610612748,MIA,1629216,Vincent,G. Vincent,-110,288,31,Missed,1,,,0,v,MISS Vincent 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,376
+0042200401,524,PT03M42.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,377
+0042200401,525,PT03M27.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,-7,80,8,Made,1,96,82,178,h,Jokic 8' Turnaround Fadeaway (23 PTS) (Murray 10 AST),Made Shot,Turnaround Fadeaway shot,1,2,378
+0042200401,527,PT03M07.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,-4,8,1,Made,1,96,84,180,v,Highsmith 1' Dunk (12 PTS) (Adebayo 5 AST),Made Shot,Dunk Shot,1,2,379
+0042200401,529,PT02M50.00S,4,1610612743,DEN,1627750,Murray,J. Murray,140,214,26,Missed,1,,,0,h,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0042200401,530,PT02M45.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,381
+0042200401,531,PT02M34.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,237,-4,24,Made,1,96,87,183,v,Highsmith 24' 3PT Jump Shot (15 PTS) (Butler 6 AST),Made Shot,Jump Shot,1,3,382
+0042200401,533,PT02M11.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-1,151,15,Made,1,98,87,185,h,Caldwell-Pope 15' Pullup Jump Shot (7 PTS) (Jokic 14 AST),Made Shot,Pullup Jump shot,1,2,383
+0042200401,535,PT01M58.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,384
+0042200401,535,PT01M58.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (1 STL),,,1,0,385
+0042200401,537,PT01M52.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith S.FOUL (P2.T3) (D.Guthrie),Foul,Shooting,1,0,386
+0042200401,539,PT01M52.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,99,87,186,h,Gordon Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,387
+0042200401,540,PT01M52.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,100,87,187,h,Gordon Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,388
+0042200401,541,PT01M44.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-28,109,11,Missed,1,,,0,v,MISS Adebayo 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,389
+0042200401,542,PT01M42.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,390
+0042200401,543,PT01M38.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo P.FOUL (P4.PN) (D.Guthrie),Foul,Personal,1,0,391
+0042200401,545,PT01M38.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,101,87,188,h,Jokic Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,392
+0042200401,546,PT01M38.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,102,87,189,h,Jokic Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,393
+0042200401,547,PT01M24.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,-232,102,25,Made,1,102,90,192,v,Highsmith 25' 3PT Jump Shot (18 PTS) (Butler 7 AST),Made Shot,Jump Shot,1,3,394
+0042200401,549,PT01M02.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,-116,21,12,Made,1,104,90,194,h,Jokic 12' Turnaround Fadeaway (27 PTS),Made Shot,Turnaround Fadeaway shot,1,2,395
+0042200401,550,PT00M55.40S,4,1610612748,MIA,1629216,Vincent,G. Vincent,212,141,25,Made,1,104,93,197,v,Vincent 25' 3PT Jump Shot (19 PTS) (Lowry 5 AST),Made Shot,Jump Shot,1,3,396
+0042200401,552,PT00M32.80S,4,1610612743,DEN,203999,Jokić,N. Jokić,-31,35,5,Missed,1,,,0,h,MISS Jokic 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,397
+0042200401,553,PT00M32.80S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,398
+0042200401,570,PT00M32.80S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,15,9,2,Missed,1,,,0,h,MISS Porter Jr. 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,399
+0042200401,570,PT00M32.80S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith BLOCK (1 BLK),,,0,2,400
+0042200401,572,PT00M32.80S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,401
+0042200401,555,PT00M32.80S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Jovic FOR Lowry,Substitution,,0,0,402
+0042200401,556,PT00M32.80S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Yurtseven FOR Adebayo,Substitution,,0,0,403
+0042200401,557,PT00M32.80S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,SUB: Strus FOR Butler,Substitution,,0,0,404
+0042200401,561,PT00M32.80S,4,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,SUB: Robinson FOR Vincent,Substitution,,0,0,405
+0042200401,563,PT00M29.70S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-224,30,0,Missed,1,,,0,h,MISS Porter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+0042200401,564,PT00M28.30S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,407
+0042200401,565,PT00M21.60S,4,1610612748,MIA,1631107,Jović,N. Jović,-31,41,5,Missed,1,,,0,v,MISS Jovic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,408
+0042200401,565,PT00M21.60S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic BLOCK (1 BLK),,,1,2,409
+0042200401,567,PT00M21.60S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,410
+0042200401,568,PT00M00.00S,4,0,,0,,,0,0,0,,0,104,93,197,,End of 4th Period (10:43 PM EST),period,end,1,0,411

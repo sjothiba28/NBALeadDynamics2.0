@@ -1,0 +1,25 @@
+# Bug-class rules only. Style is deliberately unenforced so that a clean run
+# means "no new correctness problems" rather than "no new formatting drift".
+#
+#   python -m ruff check src tests
+#
+target-version = "py312"
+
+[lint]
+select = [
+    "F",    # pyflakes: undefined names, unused imports, shadowed bindings
+    "E9",   # syntax and IO errors
+    "B",    # bugbear: closures over loop variables, mutable defaults, zip strict
+    "RUF",  # ruff-specific: unused unpacks, mutable class attrs
+]
+ignore = [
+    "RUF005",  # collection-literal concatenation; the explicit form reads better
+               # in the test frame builders
+]
+
+[lint.per-file-ignores]
+# score.py runs its scrape at import time, so it is a script rather than a
+# module. Leaving it out of the import-order rules until it is refactored.
+"src/score.py" = ["E402"]
+# Tests deliberately reach into private helpers to assert on internals.
+"tests/*" = ["SLF001"]
